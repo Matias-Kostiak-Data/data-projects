@@ -18,5 +18,5 @@ Mi meta es desarrollarme en roles de **Data Engineer / Data Analyst Junior**, tr
 - 💬 Social Media Opinions Analysis (Proyecto 3)  
 
 ## 📫 Contacto
-- Email: tuemail@gmail.com  
+- Email: matiaskostiak25@gmail.com   
 - LinkedIn: linkedin.com/in/matias-kostiak  
