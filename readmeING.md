@@ -18,5 +18,5 @@ My aim is to grow into **Junior Data Engineer / Data Analyst roles**, working in
 - 💬 Social Media Opinions Analysis (Project 3)  
 
 ## 📫 Contact
-- Email: tuemail@gmail.com  
+- Email: matiaskostiak25@gmail.com  
 - LinkedIn: linkedin.com/in/matias-kostiak  
