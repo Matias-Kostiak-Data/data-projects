@@ -1,0 +1,11 @@
+tweet_id,usuario,texto,fecha
+1,user1,Me encanta este curso de datos 💻,2025-09-01
+2,user2,SQL es difícil pero necesario,2025-09-02
+3,user3,Platzi me está ayudando un montón,2025-09-03
+4,user4,No entiendo pandas 😡,2025-09-04
+5,user5,La nube es el futuro ☁️,2025-09-05
+6,user1,Aprendí a usar PostgreSQL hoy 🎉,2025-09-06
+7,user2,Quiero conseguir trabajo de data engineer,2025-09-07
+8,user3,Python es genial para data,2025-09-08
+9,user4,Estoy frustrado con los joins 😩,2025-09-09
+10,user5,Gracias a mis estudios veo progreso 🚀,2025-09-10
