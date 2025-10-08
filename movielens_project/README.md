@@ -32,12 +32,14 @@ Este proyecto es un dashboard interactivo desarrollado con **Streamlit** y **Plo
 
 ## 📂 Estructura de Carpetas / Folder Structure
 movielens_project/
-├─ data/                # CSVs procesados / Cleaned CSVs
-│  ├─ Official data/    # Datos crudos descargados / Raw datasets
-│  └─ ...               # Archivos limpios generados
-├─ scripts/             # Scripts de Python
-├─ visuals/             # Capturas o GIFs del dashboard / Screenshots or GIFs
-└─ README.md
+|-- data/                # CSVs procesados / Cleaned CSVs
+|   |-- Official data/   # Datos crudos descargados / Raw datasets
+|   `-- ...              # Archivos limpios generados
+|-- scripts/             # Scripts de Python
+|   `-- movielens_dashboard_final.py
+|-- visuals/             # Capturas o GIFs del dashboard / Screenshots or GIFs
+`-- README.md
+
 
 
 ### 🔑 Archivos importantes / Key files
