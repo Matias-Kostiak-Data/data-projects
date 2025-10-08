@@ -1,0 +1,11 @@
+genre,total_ratings,avg_rating
+drama,1765705,3.69
+comedy,1512682,3.25
+"comedy, romance",902051,3.37
+"drama, romance",796335,3.67
+"comedy, drama",721432,3.57
+"comedy, drama, romance",715769,3.59
+"action, adventure, sci-fi",595361,3.55
+"crime, drama",594888,3.99
+"action, crime, thriller",379990,3.52
+"drama, thriller",365955,3.48

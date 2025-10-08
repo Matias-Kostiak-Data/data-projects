@@ -1,0 +1,1622 @@
+genres,avg_rating,num_ratings
+"adventure, drama, romance, war, western",5.0,2
+"action, comedy, mystery",5.0,1
+"action, drama, mystery, romance, sci-fi, thriller",5.0,1
+"adventure, drama, fantasy, horror, thriller",5.0,1
+"adventure, fantasy, sci-fi, western",5.0,1
+"children, comedy, documentary",5.0,1
+"comedy, crime, drama, fantasy, mystery, thriller",5.0,1
+"fantasy, horror, romance, sci-fi",5.0,1
+"animation, crime, mystery, thriller",4.625,4
+"animation, comedy, fantasy, romance",4.5,2
+"action, children, drama, thriller",4.5,1
+"action, adventure, animation, children, crime, mystery",4.285714285714286,7
+"children, drama, romance, western",4.285714285714286,7
+"action, children, drama, western",4.25,2
+"comedy, fantasy, horror, romance, sci-fi",4.25,2
+"fantasy, mystery, romance",4.25,2
+"action, adventure, mystery, romance, thriller",4.196617210682493,16850
+"film-noir, romance, thriller",4.161201106282102,5062
+"action, crime, drama, mystery, sci-fi, thriller, imax",4.155508420105412,38895
+"adventure, animation, fantasy",4.153862091828278,24132
+"action, adventure, crime, drama, thriller",4.153174525533164,20444
+"film-noir, mystery",4.148479935143899,12335
+"animation, children, drama, fantasy",4.148,9375
+"action, crime, drama, imax",4.147028846381758,42189
+"action, animation, crime, sci-fi",4.129716981132075,212
+"action, adventure, comedy, fantasy, romance",4.124002519949601,38096
+"crime, film-noir, mystery",4.123771642489471,8548
+"action, adventure, western",4.113736176517276,18899
+"action, adventure, animation, drama, fantasy",4.1074127906976745,13760
+"comedy, crime, drama, thriller",4.101777922988435,146913
+"crime, thriller, war",4.098406959665574,8851
+"sci-fi, imax",4.097927896085535,22634
+"animation, comedy, romance",4.0966228893058165,2665
+"film-noir, mystery, thriller",4.093481803367735,9205
+"crime, film-noir, thriller",4.092521170453593,11927
+"animation, drama, fantasy, romance",4.091666666666667,1620
+"adventure, animation, fantasy, romance",4.090634441087613,10592
+"comedy, musical, war",4.083153541891406,5562
+"adventure, animation, drama, fantasy, sci-fi",4.078572732250411,5479
+"action, fantasy, mystery",4.078431372549019,306
+"animation, drama, war",4.077983458054352,5078
+"comedy, drama, romance, war",4.068511155498606,106136
+"drama, film-noir, romance",4.066147433084686,9116
+"action, adventure, animation, children, fantasy, sci-fi",4.058796634967081,5468
+"adventure, comedy, romance, war",4.048892565021597,10881
+"comedy, crime, mystery, romance, thriller",4.046285446449496,4267
+"crime, film-noir, mystery, thriller",4.040356889624202,50772
+"crime, horror",4.036012503746842,23353
+"comedy, crime, drama, fantasy",4.022075055187638,453
+"adventure, drama, romance, thriller, war",4.010880316518299,1011
+"crime, mystery, thriller",4.008373295934371,132624
+"comedy, drama, film-noir",4.007962359753891,2763
+"action, drama, mystery, romance, thriller",4.005161023947151,2422
+"adventure, animation, children, romance, sci-fi",4.004931687002265,27374
+"children, crime, drama, thriller",4.0,11
+"comedy, fantasy, romance, thriller",4.0,5
+"action, drama, fantasy, mystery",4.0,3
+"action, adventure, drama, fantasy, romance",4.0,2
+"action, comedy, drama, mystery, thriller",4.0,2
+"action, horror, thriller, war",4.0,2
+"children, drama, fantasy, musical",4.0,2
+"comedy, crime, romance, western",4.0,2
+"comedy, drama, fantasy, war",4.0,2
+"action, adventure, comedy, war, western",4.0,1
+"adventure, children, drama, war",4.0,1
+"adventure, mystery, romance",4.0,1
+"comedy, documentary, horror",4.0,1
+"crime, drama, horror, mystery, romance",4.0,1
+"crime, drama",3.9919447021960437,594888
+"drama, mystery, western",3.9913372259978943,10447
+"action, adventure, drama, fantasy",3.9889340027914226,55169
+"children, drama, fantasy, romance",3.9828186951820257,16646
+"action, adventure, horror, sci-fi",3.9777131481539083,32149
+"mystery, thriller",3.9731830967488717,152870
+"action, adventure, crime, imax",3.9713489353153877,19912
+"adventure, animation, drama",3.9653194975423265,1831
+"animation, children, comedy, crime",3.959407965986122,24931
+"fantasy, sci-fi",3.958530732787793,16253
+"adventure, animation, children, comedy, sci-fi",3.955567515847387,8361
+"drama, war",3.955537060678088,283562
+"comedy, drama, musical, sci-fi",3.9489819527996297,4322
+"comedy, mystery, thriller",3.942831558111038,10609
+"crime, mystery, romance, thriller",3.9415951638065523,5128
+"children, fantasy, mystery",3.9375,8
+"adventure, drama, fantasy, mystery, sci-fi",3.936724864539434,8305
+"crime, documentary, war",3.9360146252285193,547
+"animation, comedy, drama, romance, sci-fi",3.935126582278481,1896
+"adventure, animation, children, comedy, drama, fantasy",3.9305034913634693,13605
+"adventure, comedy, drama, fantasy, mystery, sci-fi, thriller",3.9301397205588824,1002
+"action, crime, imax",3.9299634988919308,30684
+"action, animation, crime, horror, sci-fi",3.9285714285714284,7
+"crime, drama, film-noir, thriller",3.9273753251987835,27291
+"drama, mystery, sci-fi, thriller",3.9269553439387446,72353
+"adventure, children, fantasy, musical",3.925282067696247,24994
+"animation, children, comedy, drama, romance",3.923785594639866,597
+"crime, drama, sci-fi, thriller",3.9207343148634615,32738
+"adventure, fantasy",3.9174163625600893,153729
+"animation, western",3.9166666666666665,6
+"drama, western",3.913645678750618,42453
+"adventure, animation, comedy, fantasy, romance",3.913181019332162,2845
+"drama, film-noir, mystery, romance",3.912539184952978,1595
+"action, animation, drama, fantasy, sci-fi",3.912202380952381,1008
+"crime, horror, thriller",3.91181783137838,90795
+"crime, drama, war",3.909349593495935,1230
+"crime, fantasy, horror",3.907332563510393,1732
+"action, drama, western",3.906728277345851,40902
+"action, adventure, drama, fantasy, mystery, imax",3.9059325176121615,13485
+"animation, mystery, sci-fi",3.90388426476417,2523
+"drama, fantasy, horror, romance",3.903579575364099,5699
+"animation, horror, mystery, thriller",3.903019744483159,1722
+"comedy, drama, fantasy, mystery",3.8996101364522415,1026
+"drama, mystery, war",3.8992944194996793,1559
+"animation, crime, drama, horror, mystery",3.8980891719745223,157
+"animation, drama, romance",3.8955425952926475,4801
+"action, adventure, animation, drama, romance",3.8947368421052633,19
+"drama, fantasy, thriller",3.894047458843583,22293
+"drama, horror, mystery",3.889606146238078,56620
+"adventure, drama, war",3.8879899617590823,41840
+"animation, documentary, drama, war",3.887579617834395,1570
+"comedy, drama, musical, romance, war",3.8843283582089554,134
+"action, adventure, drama, thriller, western",3.880743158423299,3983
+"action, adventure, animation, comedy, crime, mystery",3.8802216538789427,1173
+"adventure, comedy, fantasy, musical",3.8773388773388775,481
+"action, drama, war",3.877104879599336,257972
+"action, drama, thriller, western",3.875643794650274,6019
+"animation, fantasy, mystery, thriller",3.875,68
+"animation, children, comedy, drama, fantasy, romance, sci-fi",3.875,20
+"adventure, animation, war",3.875,4
+"adventure, documentary",3.87292654028436,3376
+"adventure, animation, children, comedy, crime",3.871353654539495,6102
+"action, animation, sci-fi, thriller",3.8690508566766386,3677
+"adventure, animation, children, drama, sci-fi",3.8665144596651446,9855
+"documentary, war",3.8632817188812867,8331
+"adventure, musical, romance",3.857142857142857,7
+"crime, drama, film-noir",3.855891267285471,21116
+"animation, comedy, drama, fantasy, sci-fi",3.8525641025641026,546
+"action, comedy, crime, mystery",3.8518144459148846,14357
+"animation, drama",3.8515434985968193,5345
+film-noir,3.851291745431632,3174
+"adventure, drama, mystery, thriller",3.8507371007371005,2442
+"adventure, animation, children, drama, fantasy",3.8499872220802454,7826
+"children, drama, fantasy, mystery",3.849933774834437,3775
+"comedy, war",3.847914050509279,50169
+"action, adventure, animation, sci-fi",3.8457883369330452,13890
+"action, adventure, crime, drama, thriller, war",3.844497022109815,12257
+"action, western",3.8439693245232633,29209
+"mystery, sci-fi, thriller",3.843636074301256,69124
+"action, adventure, drama, western",3.8429097857240344,7327
+"animation, drama, fantasy",3.842723956222132,4934
+"animation, drama, sci-fi, imax",3.8423076923076924,260
+"adventure, animation, children, drama",3.840085055340494,36682
+"drama, mystery",3.8395880861850444,78900
+"crime, drama, film-noir, mystery, thriller",3.8382997370727434,12551
+"comedy, drama, sci-fi",3.8372263379035827,36176
+"fantasy, mystery, romance, thriller",3.8357487922705316,207
+"adventure, fantasy, mystery, romance, imax",3.834885361552028,14175
+"children, war",3.8333333333333335,6
+"action, adventure, comedy, mystery, romance",3.8333333333333335,3
+"action, crime, documentary",3.8333333333333335,3
+"drama, romance, sci-fi, thriller",3.831103074141049,2765
+"action, animation, comedy",3.8305953969312876,11992
+"animation, sci-fi",3.828748925529421,12797
+"adventure, animation, drama, horror",3.8216911764705883,272
+"comedy, crime, thriller",3.8203786914977127,73886
+"adventure, comedy, documentary, mystery",3.8201219512195124,164
+"adventure, drama, imax",3.81987324894807,57751
+"adventure, animation, comedy, fantasy, romance, sci-fi",3.8181818181818183,253
+"adventure, animation, children, drama, musical, imax",3.817136507193824,42745
+"drama, fantasy, romance, sci-fi",3.8156338953361066,4567
+"drama, romance, sci-fi",3.8139634166365637,60902
+"action, drama, romance, western",3.813899253731343,1072
+"action, adventure, animation, children, comedy",3.8138095128092586,43289
+"adventure, western",3.813416590284143,8728
+"adventure, animation, mystery",3.8125,8
+"documentary, drama, mystery",3.8125,8
+"fantasy, western",3.8123861566484516,549
+"adventure, comedy, fantasy, romance",3.8096803107260233,6694
+"children, documentary",3.808130081300813,615
+"drama, film-noir",3.806408407170822,4853
+"adventure, film-noir, sci-fi, thriller",3.805669679539852,12170
+"comedy, drama, war",3.8047297807536435,39727
+"action, adventure, comedy, drama, romance, war",3.803448275862069,145
+"action, animation, drama, sci-fi, thriller",3.8013657957244655,1684
+"drama, mystery, sci-fi",3.7970142917786895,7067
+"adventure, drama, thriller, imax",3.7938448566610457,4744
+"action, crime, mystery",3.792972972972973,1850
+mystery,3.7917398945518452,3983
+"comedy, crime, drama, mystery",3.7907627711686493,1429
+"action, adventure, documentary",3.7864077669902914,206
+"action, animation, horror, mystery",3.78525641025641,156
+"drama, horror, war",3.78486646884273,337
+"drama, mystery, romance, war",3.7831837505904584,2117
+"children, drama, thriller",3.782051282051282,39
+"adventure, comedy, fantasy",3.7804967310531343,80607
+"action, crime, film-noir, mystery, thriller",3.780095191055633,22271
+"action, drama, horror",3.7769620928990926,3746
+"comedy, crime, drama, musical, mystery, romance",3.7768361581920904,177
+"animation, romance",3.774873524451939,593
+"drama, film-noir, mystery, thriller",3.7737864077669903,1030
+"drama, thriller, war",3.769290036456572,53214
+"adventure, drama, fantasy, imax",3.768890283005716,14346
+"action, comedy, fantasy, horror",3.7680553897576696,8377
+"adventure, fantasy, thriller, imax",3.7678798811544993,18848
+"action, crime, drama, thriller, war",3.7655352480417754,9575
+"mystery, romance, thriller",3.765009236453202,6496
+"action, adventure, animation, crime, fantasy",3.7645687645687644,429
+"comedy, crime, drama",3.763702977449817,96895
+"action, comedy, fantasy, musical, romance",3.7633714102700973,9367
+"comedy, crime, drama, film-noir, musical",3.7628205128205128,234
+"animation, comedy, fantasy, musical",3.7612612612612613,2109
+"adventure, animation, fantasy, musical, sci-fi",3.758575197889182,379
+documentary,3.755371710904286,234981
+"adventure, comedy, drama",3.754920576112629,43186
+"crime, documentary, drama, war",3.752688172043011,93
+"animation, comedy, drama",3.7509578544061304,522
+"adventure, animation, drama, fantasy",3.75,6
+"adventure, children, western",3.75,4
+"animation, crime, documentary",3.75,4
+"crime, drama, film-noir, mystery",3.74901832460733,3056
+"crime, drama, western",3.7487182857894044,7607
+"action, crime, drama, thriller",3.7479199347913013,260088
+"children, drama, war",3.743207712532866,1141
+"action, adventure, animation, comedy, drama, fantasy, romance",3.742857142857143,35
+"adventure, documentary, drama, thriller",3.7419354838709675,31
+"action, adventure, drama",3.7410590664345573,123505
+"action, mystery, thriller",3.739923413029604,40738
+"fantasy, romance, sci-fi",3.7395833333333335,48
+"crime, drama, mystery, thriller, war",3.7389649923896497,657
+"drama, fantasy, musical",3.738725693007861,2417
+"adventure, animation, children, comedy, fantasy, romance",3.738700663639539,42945
+"documentary, drama, war",3.7385892116182573,241
+"drama, film-noir, thriller",3.738074269778365,6813
+"adventure, animation, children, comedy, fantasy",3.737641958281917,151541
+"drama, mystery, romance, thriller",3.7367339736318033,39669
+"crime, documentary",3.7366366366366366,1665
+"action, animation, sci-fi, western",3.736220472440945,127
+"animation, children, comedy, fantasy, musical, romance, imax",3.7333333333333334,7695
+"action, adventure, comedy, fantasy, horror",3.7328222828704445,12458
+"drama, fantasy, horror, thriller, war",3.7323901264298613,1661
+"children, drama, sci-fi",3.732027556785426,34692
+"crime, drama, thriller",3.7319807962512943,286819
+"adventure, animation, children, comedy, drama, musical, romance",3.731475645989016,11107
+"action, crime, drama, western",3.730209895052474,6670
+"drama, fantasy, romance",3.7283569217683055,84646
+"adventure, animation, children, fantasy, imax",3.7268761360685536,19255
+"adventure, comedy, crime, romance",3.7259651076466223,5388
+"action, adventure, comedy, crime, mystery, thriller",3.725545950864422,8792
+"crime, drama, romance",3.724608638249717,42416
+"adventure, comedy, crime",3.724068629275373,26869
+"action, comedy, horror, sci-fi, thriller",3.7234141791044775,1072
+"crime, drama, fantasy, film-noir, mystery, romance",3.723110151187905,4630
+"action, adventure, comedy, drama, romance, thriller",3.719941348973607,682
+"action, adventure, animation, fantasy, horror",3.7176870748299318,147
+"animation, fantasy, thriller",3.7156033287101247,7210
+"musical, romance",3.7144098553391607,19563
+"action, comedy, crime, fantasy, thriller",3.7142857142857144,21
+"comedy, drama, horror, mystery",3.7142857142857144,7
+"action, romance, war, western",3.7136340810177435,11948
+"adventure, animation, children, comedy, fantasy, imax",3.7127813877929916,17236
+"adventure, drama",3.7125160910261163,91666
+"documentary, musical",3.712493180578287,12831
+"adventure, crime, drama, thriller",3.7117224880382773,418
+"adventure, drama, western",3.711060797762536,45051
+"action, sci-fi, imax",3.7102684121992247,27346
+"comedy, drama, fantasy, mystery, romance",3.7091121495327104,428
+"action, drama, mystery, sci-fi, thriller, imax",3.7075786662215173,11981
+"crime, drama, mystery",3.703988519398258,50520
+"crime, drama, film-noir, romance, thriller",3.7027027027027026,444
+"crime, drama, romance, war",3.702054794520548,2774
+"drama, romance, war",3.7016254768618344,60290
+"adventure, comedy, musical, romance, western",3.7,15
+"action, adventure, comedy, musical, romance, thriller",3.699324324324324,148
+"children, comedy, fantasy, musical",3.699110097486808,44724
+"action, adventure",3.696463092072664,143289
+"action, comedy, crime, drama, musical, thriller",3.696078431372549,51
+"adventure, animation, fantasy, horror, sci-fi",3.693548387096774,31
+drama,3.6926111666444847,1765705
+"comedy, crime, film-noir",3.6923076923076925,13
+"crime, drama, thriller, war",3.6908006814310053,587
+"animation, sci-fi, thriller",3.6904761904761907,21
+"crime, film-noir",3.690432826226698,9334
+"crime, sci-fi",3.690082644628099,121
+"drama, film-noir, mystery",3.689516129032258,1116
+"action, comedy, drama, horror, thriller",3.6891025641025643,156
+"adventure, crime, drama, romance, thriller",3.6875,8
+"documentary, sci-fi",3.68730407523511,638
+"adventure, animation, drama, mystery, sci-fi",3.6823899371069184,159
+"adventure, drama, sci-fi",3.6819320064791197,107422
+"animation, children, fantasy, musical, romance, imax",3.6809198555552447,35723
+"animation, children, drama",3.6804991566189793,32014
+"adventure, animation, drama, sci-fi, war",3.6779661016949152,59
+"action, crime, horror, sci-fi, thriller",3.6753332081847194,5327
+"action, animation, crime, sci-fi, thriller",3.675141242937853,177
+"comedy, crime, drama, mystery, romance",3.6749237804878048,2624
+"comedy, drama, sci-fi, war",3.673076923076923,676
+"animation, fantasy",3.6710316192909613,3131
+"children, comedy, musical, romance",3.6699702675916748,1009
+"drama, romance",3.668746821375426,796335
+"animation, drama, fantasy, mystery",3.6666666666666665,60
+"adventure, animation, comedy, drama, fantasy",3.6666666666666665,48
+"adventure, animation, children, mystery",3.6666666666666665,24
+"documentary, western",3.6666666666666665,24
+"action, adventure, comedy, romance, war",3.6666666666666665,21
+"action, adventure, crime, drama, mystery, thriller",3.6666666666666665,18
+"action, comedy, crime, sci-fi",3.6666666666666665,6
+"adventure, documentary, drama, mystery, thriller",3.6666666666666665,6
+"action, adventure, animation, crime",3.6666666666666665,3
+"comedy, fantasy, musical, romance",3.6659192825112106,223
+"action, fantasy, horror, romance",3.664310954063604,283
+"animation, children, comedy, fantasy",3.6625814458578962,3223
+"animation, drama, western",3.6607142857142856,28
+"animation, crime, drama",3.660206718346253,387
+"crime, drama, horror",3.6601769911504425,1695
+"action, drama, thriller, war",3.660176033829965,20337
+"adventure, drama, mystery",3.6598837209302326,172
+"comedy, drama, fantasy, musical",3.6592592592592594,135
+"documentary, imax",3.65888602704443,3106
+"action, adventure, animation",3.657475169890225,7652
+"animation, fantasy, horror, sci-fi",3.655894673847995,1671
+"animation, documentary, drama, fantasy",3.6551724137931036,29
+"comedy, drama, mystery, romance",3.6539906103286386,1065
+"drama, romance, thriller",3.652527809386684,43061
+"animation, fantasy, mystery",3.6515151515151514,330
+"action, comedy, crime, drama, sci-fi",3.650008506294658,11756
+"adventure, animation, comedy",3.649366580426443,22418
+"action, comedy, musical",3.6492598330321027,23238
+"comedy, crime, mystery, thriller",3.648181628537654,14381
+"animation, crime, drama, fantasy, thriller",3.6470588235294117,51
+"documentary, drama",3.646466786735883,9439
+"adventure, animation, children, comedy, musical",3.646263150703648,58552
+"action, animation, sci-fi",3.6459348070438367,2669
+"documentary, fantasy",3.6448598130841123,214
+"adventure, comedy, fantasy, romance, imax",3.6435643564356437,101
+"adventure, fantasy, musical",3.642556818181818,8800
+"action, animation, drama, sci-fi",3.6424247982391784,5452
+"adventure, comedy, war",3.64237668161435,446
+"action, documentary, drama",3.641566265060241,166
+"drama, fantasy, musical, romance",3.6408217362491717,3018
+"animation, children, fantasy, musical",3.6400155425850294,60479
+"drama, romance, thriller, war",3.638758782201405,854
+"drama, fantasy, mystery, romance",3.636854788557214,25728
+"action, animation, thriller",3.6363636363636362,22
+"children, drama, fantasy, horror, mystery, thriller",3.6363636363636362,11
+"action, adventure, thriller, imax",3.636058830158909,17746
+"adventure, fantasy, imax",3.6357877024753176,49327
+"action, adventure, sci-fi, thriller, war",3.63522870861764,19785
+"comedy, drama, fantasy",3.634139540812262,62763
+"action, adventure, drama, war",3.633452873399968,56327
+"adventure, children, drama, fantasy",3.63339222614841,1132
+"adventure, romance, sci-fi",3.6315789473684212,38
+"drama, fantasy, musical, mystery, sci-fi",3.630503144654088,636
+"adventure, drama, sci-fi, thriller",3.6296137339055794,4660
+"comedy, drama, film-noir, romance",3.625,16
+"comedy, crime, drama, musical, romance",3.625,8
+"comedy, drama, musical, romance",3.6247094760608274,15059
+"drama, horror, romance",3.6218611521418023,1354
+"crime, film-noir, romance",3.6205357142857144,112
+war,3.6198090692124105,4190
+"adventure, comedy, sci-fi",3.619573716261935,133010
+"comedy, crime, drama, horror, mystery",3.619047619047619,168
+"children, drama, fantasy, musical, romance",3.6184210526315788,38
+"comedy, drama, horror, thriller",3.6176470588235294,85
+"animation, drama, mystery, sci-fi, thriller",3.6166522116218562,4612
+"action, crime, thriller, western",3.6162405303030303,4224
+"drama, sci-fi, thriller",3.61452459758714,92753
+"adventure, drama, thriller",3.61415392555319,31002
+"comedy, drama, romance, western",3.6131498470948014,327
+fantasy,3.613067195636003,8066
+"action, sci-fi, thriller",3.6126443574794345,313025
+"action, drama, horror, thriller",3.6096013140212033,13394
+"comedy, documentary, musical",3.6095100864553316,347
+"action, animation, mystery",3.609375,32
+"comedy, drama, western",3.6092774308652986,1121
+"drama, mystery, thriller",3.607900334078768,182891
+"action, comedy, crime, romance",3.607772388501124,8453
+"action, adventure, drama, fantasy, mystery",3.607142857142857,14
+"action, animation, children, comedy, imax",3.6060040856203925,11259
+"adventure, drama, romance, war",3.603567318757192,869
+"drama, musical, romance, war",3.6025641025641026,117
+"mystery, sci-fi",3.6018078020932447,2102
+"drama, sci-fi",3.6017327553534204,84432
+"action, adventure, animation, children, comedy, fantasy",3.6016752577319586,7760
+"drama, thriller, western",3.6007972665148062,878
+"adventure, crime, drama",3.598965362123257,15561
+"drama, fantasy",3.5972146812900423,18418
+"action, adventure, comedy, drama, war",3.5964614237175767,12067
+"action, crime, mystery, sci-fi, thriller",3.5934782608695652,41630
+"action, sci-fi, thriller, imax",3.5903407722565626,49828
+"children, drama, fantasy",3.589800099329526,16108
+western,3.588747807942463,45049
+"comedy, drama, romance",3.5885250688420425,715769
+"adventure, crime, drama, horror, mystery",3.5875706214689265,354
+"comedy, romance, western",3.587431693989071,183
+"action, comedy, fantasy, romance",3.5849056603773586,53
+"animation, documentary",3.5840130505709626,613
+"adventure, animation, comedy, fantasy, musical",3.5836580613735998,4106
+"animation, children, drama, fantasy, musical",3.5823021181716834,17940
+"drama, romance, western",3.5821283509342,6155
+"action, crime, drama, horror, thriller",3.5802192326856006,2007
+"action, comedy, crime, horror",3.5799120234604107,1364
+"adventure, children, fantasy, romance",3.5789473684210527,19
+"comedy, documentary",3.5788158763080986,21214
+"action, drama, mystery, sci-fi, thriller",3.5776353865233568,12095
+"action, animation, fantasy",3.5767263427109977,391
+"crime, mystery",3.5764951321279557,2876
+"action, adventure, animation, children",3.5764915309094834,9269
+"comedy, drama, thriller",3.576320556126695,20427
+"comedy, drama, mystery",3.576192886976332,7901
+"children, comedy, crime, drama, fantasy",3.5755813953488373,1032
+"action, comedy, fantasy, sci-fi",3.5752828546562228,1149
+"action, adventure, animation, drama",3.574433656957929,309
+"drama, horror, mystery, romance, thriller",3.5714285714285716,1687
+"romance, sci-fi, thriller",3.5700767720049993,5601
+"adventure, animation, comedy, sci-fi",3.56993006993007,858
+"film-noir, horror, mystery, thriller",3.569400070997515,2817
+"children, drama",3.5687278101176854,55487
+"comedy, drama",3.56805492409541,721432
+"animation, comedy, musical",3.5679040752671676,19557
+"mystery, romance, sci-fi",3.5677966101694913,295
+"action, fantasy, war, imax",3.567504928339283,18769
+"action, adventure, fantasy, sci-fi, imax",3.567401056158083,17611
+"crime, drama, romance, thriller",3.56727435116108,19034
+"animation, war",3.566666666666667,225
+"comedy, crime, sci-fi",3.566666666666667,15
+"action, crime, drama, mystery, thriller",3.566160781884507,29058
+"action, adventure, crime, horror, thriller",3.5649867374005306,4524
+"children, crime, documentary",3.5625,8
+"action, animation, children, comedy, sci-fi, imax",3.561341075107698,5339
+"action, adventure, animation, comedy, fantasy",3.561224489795918,49
+"action, crime, mystery, romance, thriller",3.559409594095941,1355
+"action, adventure, comedy, sci-fi",3.5582099997022127,67162
+"adventure, mystery, sci-fi, thriller",3.5575221238938055,2034
+"animation, drama, sci-fi",3.557471264367816,87
+"crime, thriller",3.5562872524514515,114422
+"fantasy, horror, sci-fi, thriller",3.5558797782316893,3427
+"sci-fi, war",3.5555555555555554,36
+"action, animation, western",3.5555555555555554,9
+"adventure, documentary, drama",3.555084745762712,354
+"drama, mystery, romance, sci-fi, thriller",3.555038103302286,1181
+"animation, comedy, horror, musical",3.5546218487394956,119
+"action, adventure, sci-fi",3.554423282680592,595361
+"drama, fantasy, mystery, sci-fi",3.5544057068220636,9953
+"animation, comedy, fantasy, musical, romance",3.5525933746865515,7577
+"action, drama, romance",3.5512214657589105,49940
+"action, crime, romance, thriller",3.5486233363847615,14201
+"action, adventure, comedy, fantasy, sci-fi",3.5477223427331888,1844
+"animation, drama, sci-fi, war",3.5475352112676055,284
+"adventure, animation, children, comedy",3.546497408971969,116942
+"action, adventure, fantasy, imax",3.5462980042055556,27107
+"crime, drama, mystery, romance, thriller",3.5448216083212167,17882
+"adventure, animation, children, comedy, crime, fantasy, mystery",3.5416914014338556,21899
+"children, documentary, drama",3.5416666666666665,12
+"drama, mystery, romance",3.540925981721402,9957
+"fantasy, romance, thriller",3.5398936170212765,188
+"animation, children, fantasy, musical, romance",3.5387833654087526,11951
+"drama, musical",3.5372865501731483,50246
+"animation, children, fantasy",3.5371198568872986,5590
+"action, animation, comedy, romance",3.537037037037037,27
+"documentary, mystery",3.5361904761904763,1050
+"animation, comedy, mystery",3.5344827586206895,87
+"documentary, musical, war",3.533333333333333,15
+"children, drama, mystery",3.531841856060606,4224
+"animation, children, comedy, musical, romance",3.5317596566523606,15145
+"musical, romance, war",3.5317377731529658,1922
+"animation, children, musical",3.5315636850323444,13449
+"drama, musical, romance, imax",3.5303165403477483,2243
+"action, crime, drama, war",3.529499122451735,7407
+"drama, musical, romance",3.5289553368660105,63408
+"action, adventure, drama, romance, thriller, western",3.528735632183908,87
+"action, crime, drama",3.5286144127421335,66802
+"action, comedy, horror",3.528609062170706,18980
+"comedy, crime, drama, musical",3.525830078125,10240
+"animation, children, comedy, musical",3.525020207215813,13609
+"adventure, fantasy, musical, romance",3.524793388429752,121
+"fantasy, horror, mystery, romance",3.5239280114527234,14669
+"animation, romance, sci-fi",3.5234375,64
+"comedy, musical, romance, western",3.5233402489626555,964
+"animation, children, musical, imax",3.523103112840467,4112
+"comedy, fantasy, romance",3.5228669527896996,87375
+"action, crime, thriller",3.522500592120845,379990
+"horror, mystery",3.521001234298991,27546
+"comedy, crime, drama, romance",3.520571306757621,4691
+"animation, comedy, drama, fantasy",3.5201793721973096,446
+"comedy, drama, mystery, sci-fi, thriller",3.5195195195195197,333
+"animation, crime, mystery, sci-fi, thriller",3.519230769230769,52
+thriller,3.5191429673136136,178943
+"comedy, crime, mystery",3.5182267168391346,12756
+"action, crime, fantasy, thriller",3.5175644028103044,16226
+"film-noir, thriller",3.5164439876670093,973
+"romance, sci-fi",3.5146699266503667,2863
+"animation, drama, romance, sci-fi, war",3.513333333333333,150
+"action, drama, sci-fi",3.5132388238823884,26664
+"drama, imax",3.5125,40
+"animation, children, comedy, imax",3.5112886048988283,4695
+"comedy, crime, drama, mystery, thriller",3.51106833493744,3117
+"comedy, drama, fantasy, romance",3.5100832682799896,69174
+"adventure, animation, romance",3.5075934579439254,856
+"adventure, fantasy, mystery",3.507042253521127,71
+"action, mystery",3.50640204865557,11715
+"fantasy, mystery, western",3.5058823529411764,85
+"action, comedy, crime, drama",3.5056825657894737,60800
+"comedy, war, western",3.5049295774647886,710
+"action, comedy, drama, thriller",3.503053435114504,1310
+"comedy, crime, romance",3.5027970411465557,21630
+"comedy, drama, horror, sci-fi, thriller",3.5024316109422493,1645
+"children, comedy, musical",3.502115752115752,7326
+"comedy, drama, romance, sci-fi",3.5006887052341598,726
+"action, drama, romance, thriller, war",3.5,587
+"action, animation, horror, sci-fi",3.5,59
+"fantasy, imax",3.5,42
+"action, comedy, drama, thriller, war",3.5,32
+"children, comedy, crime, drama",3.5,19
+"adventure, drama, fantasy, horror",3.5,18
+"documentary, horror, mystery",3.5,8
+"action, children, crime, drama, romance",3.5,6
+"action, adventure, children, drama, western",3.5,5
+"action, animation, comedy, fantasy, horror, sci-fi",3.5,5
+"action, drama, fantasy, horror",3.5,5
+"children, drama, fantasy, romance, sci-fi",3.5,5
+"sci-fi, thriller, war",3.5,5
+"crime, horror, mystery, romance, thriller",3.5,4
+"adventure, children, crime, drama",3.5,3
+"animation, drama, mystery, thriller",3.5,3
+"children, documentary, imax",3.5,3
+"crime, drama, mystery, sci-fi, thriller",3.5,3
+"crime, fantasy",3.5,3
+"action, comedy, drama, romance, thriller",3.5,2
+"children, documentary, fantasy, sci-fi",3.5,2
+"action, adventure, documentary, drama",3.5,1
+"adventure, animation, drama, fantasy, romance",3.5,1
+"children, comedy, drama, fantasy, romance, sci-fi",3.5,1
+"drama, romance, war, western",3.4994318181818183,15840
+"action, adventure, animation, fantasy",3.4958088851634534,2386
+"adventure, children, comedy, mystery",3.495019920318725,3514
+"adventure, drama, horror, thriller",3.4943657437218287,3106
+"action, animation, children, fantasy, sci-fi",3.4939759036144578,83
+"animation, children, comedy, drama",3.4936936936936935,555
+"crime, drama, mystery, thriller",3.4928273222776296,86230
+"adventure, comedy, crime, drama, romance",3.4921259842519685,381
+"comedy, crime, drama, romance, thriller",3.4918759844151537,12063
+"adventure, children, documentary",3.4913793103448274,58
+"action, horror",3.4907874605293143,30719
+"action, adventure, animation, comedy, sci-fi",3.49,50
+"action, crime, mystery, thriller",3.4899609165453294,26098
+animation,3.4898450946643718,11620
+"adventure, children, fantasy, musical, romance",3.4892857142857143,140
+"crime, drama, fantasy, thriller",3.488830486202365,3805
+"adventure, children, drama, sci-fi",3.488372093023256,43
+"action, animation, children, crime",3.4864,1875
+"adventure, animation, comedy, fantasy, musical, romance",3.4850415512465376,7220
+"drama, thriller",3.48395704389884,365955
+"comedy, crime, drama, war",3.482443820224719,712
+"adventure, animation, children, comedy, fantasy, musical, romance",3.480694480435346,3859
+"animation, thriller",3.4791666666666665,24
+"crime, documentary, drama",3.478787878787879,165
+"comedy, drama, musical",3.477683714872514,19963
+"action, animation, drama",3.477272727272727,44
+"comedy, musical",3.4763669113958686,43858
+"mystery, sci-fi, thriller, imax",3.476303317535545,4642
+"action, adventure, animation, drama, sci-fi, war",3.4761904761904763,21
+"action, comedy, crime, drama, horror, thriller",3.4759933774834435,1208
+"children, drama, musical",3.4757505773672057,433
+"adventure, animation, children, comedy, musical, romance",3.475467868105753,20198
+"horror, musical, thriller",3.475095785440613,522
+"animation, children, drama, musical",3.4733164612676055,9088
+"comedy, musical, romance",3.473108658912417,60354
+"adventure, animation, children, drama, musical",3.47083512699096,4646
+"adventure, drama, romance, sci-fi",3.4702181208053693,7152
+"comedy, documentary, drama",3.4699753338436676,11757
+"film-noir, thriller, war",3.4680851063829787,47
+"drama, sci-fi, imax",3.4669255825607617,7982
+"romance, western",3.4667621776504296,1745
+"sci-fi, thriller, imax",3.4659423318010867,2393
+"action, mystery, sci-fi, thriller",3.465572492638143,11546
+"comedy, crime",3.464999826598282,259513
+"adventure, animation, children, sci-fi, imax",3.463960231980116,2414
+"animation, fantasy, horror",3.463793103448276,290
+"animation, children, comedy, romance",3.4633364212926674,14033
+"adventure, animation, children, crime, drama",3.461550785004806,3121
+"action, fantasy, romance, sci-fi",3.4615384615384617,13
+"action, animation, mystery, imax",3.4614202799590306,2929
+"musical, romance, western",3.4611197511664074,643
+"action, adventure, sci-fi, imax",3.4608737397983678,166640
+"animation, musical, romance",3.4594594594594597,74
+"action, crime, drama, thriller, imax",3.4570254110612857,2676
+"action, adventure, sci-fi, thriller",3.456798975743802,357723
+"adventure, children, comedy, musical",3.455994175699725,12362
+"drama, horror, musical, thriller",3.454812471757795,6639
+"action, adventure, drama, sci-fi, thriller",3.4542908247503736,50876
+"animation, comedy",3.4532072125332545,33830
+"drama, fantasy, horror, mystery",3.4516129032258065,93
+"fantasy, romance",3.450324513230155,2003
+"action, adventure, animation, drama, sci-fi",3.45,10
+"adventure, drama, fantasy",3.4499731903485253,9325
+"horror, mystery, sci-fi, thriller",3.449549620733249,12656
+"action, animation, fantasy, sci-fi",3.449017199017199,814
+"adventure, animation, children, sci-fi",3.448158965265464,9587
+"action, adventure, comedy, fantasy",3.4476595208423766,71417
+"adventure, comedy, crime, fantasy",3.4453551912568305,183
+"documentary, drama, musical",3.445273631840796,201
+"comedy, horror, sci-fi, thriller",3.445220588235294,8160
+"adventure, animation, sci-fi",3.444914019236374,3431
+"drama, horror",3.4443533984662253,47595
+"comedy, western",3.4441698391256295,32572
+"action, horror, sci-fi, thriller, imax",3.444129682090022,15885
+"action, adventure, animation, comedy",3.442726580350343,6565
+"action, crime, drama, mystery",3.4423076923076925,52
+"action, adventure, comedy, crime, drama",3.4422735346358793,563
+"fantasy, horror, romance, thriller",3.4421036523158537,9802
+"action, animation, comedy, horror, mystery, thriller",3.4411764705882355,17
+"adventure, drama, sci-fi, war",3.4375,8
+"action, romance, western",3.436927167144756,14293
+"animation, children, comedy",3.4367664180748294,63558
+"action, adventure, drama, thriller",3.4360934974512,24129
+"crime, horror, mystery, thriller",3.435633853977479,27530
+"comedy, crime, musical, mystery",3.435300794551646,881
+"action, comedy, horror, romance, sci-fi",3.435185185185185,54
+"crime, drama, film-noir, mystery, romance",3.435185185185185,54
+"adventure, animation, children, fantasy, musical",3.434546193718874,19678
+"crime, sci-fi, thriller",3.4344448654793482,5278
+"comedy, drama, fantasy, romance, thriller",3.4341620787600378,28517
+"action, children, thriller",3.433333333333333,15
+"documentary, horror, war",3.433333333333333,15
+"comedy, crime, mystery, romance",3.4318407960199004,1005
+"animation, musical",3.4303212851405624,7470
+"adventure, comedy, musical, sci-fi",3.4296875,64
+"adventure, fantasy, romance",3.429559922502076,7226
+"adventure, crime, documentary",3.4285714285714284,28
+"drama, fantasy, mystery",3.4281005859375,4096
+"animation, comedy, fantasy, sci-fi",3.425925925925926,189
+"action, adventure, drama, thriller, imax",3.425704989154013,3688
+"action, drama, romance, war",3.4255531301371707,37107
+"adventure, comedy, musical, romance",3.4246575342465753,219
+"animation, comedy, drama, romance",3.4239130434782608,46
+"action, adventure, comedy, romance, thriller",3.4205427196670857,46138
+"action, adventure, comedy, sci-fi, thriller",3.418918918918919,333
+"mystery, thriller, western",3.4183673469387754,98
+"action, crime, drama, mystery, sci-fi, thriller",3.417996761508212,8646
+"drama, horror, mystery, thriller",3.415626373058334,38691
+sci-fi,3.4140416177462467,40031
+"action, comedy, sci-fi",3.412874246646361,123448
+"animation, mystery, thriller",3.409090909090909,44
+"adventure, crime, drama, horror, thriller",3.409090909090909,11
+"drama, film-noir, musical, thriller",3.409090909090909,11
+"action, animation, comedy, fantasy",3.408536585365854,82
+"action, adventure, mystery, thriller",3.406975863461927,39608
+"action, romance",3.406690384881948,21643
+"action, comedy, drama, fantasy, thriller",3.4056603773584904,53
+"children, drama, fantasy, mystery, thriller",3.4052388289676427,1298
+"comedy, drama, fantasy, horror",3.404494382022472,89
+"fantasy, horror, thriller",3.4044658427477446,13189
+"action, adventure, children, comedy, fantasy",3.404076360887097,15872
+"adventure, comedy, fantasy, sci-fi",3.4034295273943957,11955
+"animation, children, mystery",3.401639344262295,61
+"action, sci-fi, thriller, western",3.400565504241282,4244
+"action, children, comedy, mystery",3.4,15
+"mystery, romance, sci-fi, thriller",3.399880974180553,10922
+"drama, fantasy, thriller, war",3.3983050847457625,118
+"adventure, animation, children",3.3976330408179694,24842
+"action, adventure, drama, horror, thriller",3.3947368421052633,38
+"horror, mystery, romance, sci-fi",3.3947368421052633,19
+"action, adventure, romance",3.3933507657825923,8031
+"animation, comedy, fantasy",3.393181818181818,6600
+"adventure, children, drama, romance",3.3922872340425534,376
+"documentary, thriller",3.3909774436090228,133
+"adventure, comedy, crime, drama",3.39010989010989,91
+"comedy, crime, drama, horror",3.3854166666666665,96
+"adventure, drama, mystery, sci-fi, thriller",3.383783783783784,185
+"action, comedy, sci-fi, imax",3.383479420731707,5248
+"children, mystery",3.3823529411764706,102
+"adventure, animation, children, fantasy",3.3822770736046253,22485
+"crime, film-noir, horror, romance, thriller",3.38,25
+"comedy, romance, war",3.3779342723004695,213
+"adventure, children, sci-fi",3.377381938690969,8449
+"comedy, fantasy",3.3760268958598814,73766
+"adventure, children, romance",3.375320056899004,7030
+"adventure, fantasy, sci-fi",3.375,892
+"crime, film-noir, mystery, romance, thriller",3.375,32
+"adventure, crime, drama, romance, war",3.375,24
+"animation, children, comedy, western",3.375,12
+"animation, comedy, western",3.375,8
+"adventure, animation, crime, mystery",3.375,4
+"action, adventure, animation, horror, sci-fi",3.37419399094526,7289
+"action, adventure, children, sci-fi",3.374095989480605,1521
+"action, adventure, drama, fantasy, imax",3.3739905610907184,9535
+"comedy, romance",3.373526552268109,902051
+"adventure, comedy, sci-fi, thriller",3.372008062484253,3969
+"action, adventure, thriller",3.3718388969521045,344500
+"horror, mystery, romance",3.371287128712871,101
+"action, adventure, children, fantasy, mystery, thriller",3.371033360455655,2458
+"drama, horror, sci-fi",3.3687460689576305,17489
+"crime, drama, mystery, sci-fi",3.3684210526315788,19
+"action, animation, horror",3.3678678678678677,333
+"animation, fantasy, horror, mystery",3.3666666666666667,45
+"adventure, animation, children, comedy, drama, fantasy, musical, romance",3.3666666666666667,15
+"action, comedy, drama, romance",3.365497076023392,171
+"action, drama, fantasy, romance",3.3653846153846154,78
+"action, adventure, drama, mystery, thriller",3.365129890132457,9739
+"documentary, musical, imax",3.3649484536082475,485
+"action, adventure, comedy, crime, drama, romance, thriller",3.3636363636363638,11
+"action, film-noir, thriller",3.3636363636363638,11
+"action, adventure, animation, children, comedy, imax",3.3630375114364135,5465
+"drama, sci-fi, western",3.3629032258064515,62
+"crime, romance, thriller",3.361576153532054,2449
+"comedy, sci-fi, war",3.361111111111111,18
+"action, adventure, children, imax",3.359479015918958,3455
+"adventure, drama, thriller, war",3.3582089552238807,67
+"action, fantasy, horror",3.3576559374431714,10998
+"musical, war",3.357142857142857,14
+"action, drama, thriller",3.356275721936184,116146
+"action, war, western",3.3545454545454545,55
+"drama, musical, romance, sci-fi",3.3529411764705883,17
+"documentary, romance",3.3518518518518516,27
+"action, crime, musical",3.3515625,64
+"adventure, children, drama, fantasy, romance",3.3513513513513513,37
+"action, adventure, drama, mystery",3.350515463917526,97
+"comedy, horror, musical, sci-fi",3.3471446653264834,13431
+"action, children, comedy, drama, romance",3.3461538461538463,13
+"action, fantasy, horror, mystery, sci-fi, thriller",3.345635202271114,1409
+"action, adventure, animation, children, comedy, western",3.3440874730021597,3704
+"adventure, children, fantasy",3.343569158237448,103509
+"animation, children, fantasy, imax",3.342877094972067,3580
+"action, crime, drama, film-noir",3.3421052631578947,19
+"crime, drama, horror, mystery",3.341666666666667,60
+"comedy, fantasy, horror, musical, thriller",3.341494845360825,388
+"action, animation, film-noir, sci-fi, thriller",3.3413793103448275,290
+"drama, fantasy, sci-fi",3.3408805031446542,1590
+"action, crime",3.3382679960327817,95785
+"adventure, comedy, sci-fi, western",3.337202394552849,21883
+"comedy, horror, musical, western",3.3353293413173652,167
+"documentary, drama, sci-fi",3.3333333333333335,63
+"action, comedy, romance, sci-fi",3.3333333333333335,12
+"documentary, romance, war",3.3333333333333335,9
+"adventure, crime, mystery, romance",3.3333333333333335,6
+"adventure, drama, fantasy, mystery",3.3333333333333335,3
+"animation, crime, documentary, drama",3.3333333333333335,3
+"comedy, documentary, drama, mystery",3.3333333333333335,3
+"adventure, romance, war, western",3.3324324324324324,185
+"action, comedy, romance, war",3.331422875654124,4013
+"adventure, comedy, drama, war",3.3294117647058825,85
+"action, animation, fantasy, imax",3.3288590604026846,149
+"animation, crime, mystery",3.3282828282828283,99
+"action, drama, war, western",3.3282571912013537,591
+"horror, romance, thriller",3.3279266572637516,709
+"sci-fi, western",3.327777777777778,90
+"action, adventure, crime, drama, western",3.326530612244898,49
+(no genres listed),3.326379239118188,26627
+"children, romance",3.326219512195122,164
+"adventure, children, comedy, drama, fantasy",3.325925925925926,135
+"action, sci-fi",3.3256892487444913,156112
+"adventure, comedy, drama, romance",3.3252100840336136,595
+"drama, fantasy, war",3.3249128919860627,574
+"fantasy, horror, mystery",3.323993982700263,2659
+"adventure, drama, fantasy, film-noir",3.323529411764706,17
+"adventure, horror, romance, sci-fi",3.3225806451612905,93
+"adventure, crime, drama, western",3.3225806451612905,31
+"action, mystery, sci-fi",3.32212271973466,15075
+"animation, drama, mystery",3.3214285714285716,14
+"action, animation, drama, horror, sci-fi",3.3208955223880596,67
+"drama, horror, sci-fi, thriller",3.3205923116201035,13709
+"action, adventure, comedy, drama",3.3203125,192
+"film-noir, horror, thriller",3.3197674418604652,86
+"adventure, romance, war",3.3190476190476192,105
+"children, musical, romance",3.3181818181818183,77
+"action, adventure, war",3.31809376210771,2581
+musical,3.317859710383075,9737
+"comedy, fantasy, mystery, romance",3.316666666666667,30
+"crime, mystery, war",3.3164556962025316,79
+"adventure, comedy, crime, drama, mystery, thriller",3.3152173913043477,92
+"adventure, war, western",3.3145363408521304,399
+"adventure, drama, romance, thriller",3.3142857142857145,105
+"crime, horror, mystery",3.3125755743651752,827
+"children, comedy, drama, mystery",3.311023622047244,127
+"fantasy, thriller",3.310267857142857,224
+"horror, sci-fi",3.309727775647697,91285
+"animation, mystery",3.3088235294117645,34
+"action, horror, sci-fi, imax",3.305936856554564,8742
+"comedy, horror, thriller",3.305784980566352,28816
+"action, animation, romance",3.3055555555555554,54
+"action, romance, thriller",3.3055519883566626,46722
+"action, horror, sci-fi, thriller, war",3.3051181102362204,254
+"adventure, comedy, thriller",3.3045584045584047,1755
+"action, adventure, crime",3.304274611398964,3860
+"comedy, horror, musical",3.3028297581013235,8764
+"action, adventure, animation, horror",3.3022388059701493,268
+"action, comedy, mystery, romance",3.3,15
+"action, animation, drama, fantasy, horror",3.3,5
+"action, mystery, romance, western",3.3,5
+"adventure, animation, crime",3.3,5
+"adventure, comedy, fantasy, musical, romance",3.3,5
+"animation, crime, thriller",3.3,5
+"children, documentary, drama, romance",3.3,5
+"thriller, war",3.2990506329113924,316
+"comedy, drama, romance, thriller",3.2986242884250476,2108
+"adventure, comedy, musical",3.295501832953532,10093
+crime,3.294138876858669,6927
+"action, comedy, mystery, thriller",3.2941176470588234,17
+"mystery, romance",3.2941176470588234,17
+"crime, drama, fantasy, romance, thriller",3.2934782608695654,46
+"crime, western",3.292105263157895,190
+"action, adventure, animation, drama, fantasy, sci-fi",3.2916666666666665,84
+"children, comedy, fantasy, musical, romance",3.2916666666666665,24
+"crime, drama, horror, mystery, thriller",3.2915636588380717,9708
+"drama, fantasy, horror",3.2914301162476347,3699
+"comedy, sci-fi, thriller",3.2911255411255413,924
+"comedy, fantasy, mystery",3.2899253731343285,1340
+"adventure, children, drama, fantasy, imax",3.2888409371146734,3244
+"action, crime, drama, film-noir, thriller",3.2873563218390807,87
+"action, adventure, comedy, romance",3.2872389485473352,45537
+"action, adventure, animation, children, comedy, romance",3.287125340599455,2936
+"comedy, romance, sci-fi",3.2864882090503507,4707
+"children, comedy, drama",3.2852936952463017,13926
+"animation, drama, horror",3.284090909090909,44
+"children, fantasy",3.28275181040158,3038
+"action, adventure, comedy, western",3.2819204332430743,9602
+"drama, horror, thriller",3.2813496529731756,85296
+"drama, fantasy, horror, thriller",3.280813921165286,17987
+"children, drama, romance",3.2807881773399017,203
+"action, drama, horror, imax",3.2801920572916665,6144
+"adventure, drama, film-noir, thriller",3.28,25
+"animation, comedy, horror, imax",3.2792134831460675,890
+"action, animation, fantasy, horror, sci-fi, thriller",3.2790697674418605,43
+"action, children, crime, fantasy, mystery",3.2777777777777777,414
+"action, comedy, romance, sci-fi, thriller",3.2777777777777777,9
+"action, drama, sci-fi, thriller",3.276792598303778,47989
+"adventure, animation, horror, sci-fi, thriller",3.276315789473684,38
+"action, adventure, fantasy, romance",3.2756336405529956,1736
+"war, western",3.2755102040816326,49
+"comedy, fantasy, horror",3.275011386063458,6587
+"comedy, mystery, sci-fi",3.2739726027397262,146
+"drama, mystery, thriller, war",3.2739726027397262,73
+"action, thriller",3.2738713893526943,159909
+"action, drama, sci-fi, imax",3.2736713106295148,7752
+"action, animation, crime",3.2734375,128
+"comedy, crime, drama, film-noir, thriller",3.272727272727273,22
+"action, animation, comedy, sci-fi",3.272727272727273,11
+"adventure, animation, children, fantasy, mystery",3.272727272727273,11
+"adventure, animation, children, comedy, fantasy, musical",3.2717391304347827,46
+"action, comedy, crime, drama, romance",3.269230769230769,13
+"action, adventure, drama, war, western",3.2690582959641254,223
+"action, adventure, animation, children, sci-fi",3.2681663837011885,5890
+"romance, war",3.267089499647639,1419
+"animation, children, comedy, mystery",3.265853658536585,205
+"comedy, drama, mystery, thriller",3.265228426395939,788
+"animation, horror",3.2640845070422535,284
+"crime, film-noir, mystery, romance",3.263157894736842,38
+"children, comedy, crime, musical",3.2629032258064514,310
+"horror, romance",3.2616250611845325,2043
+"action, adventure, sci-fi, thriller, imax",3.2606716683374835,61846
+"action, comedy, romance",3.2605088242035296,43630
+"adventure, mystery, thriller",3.258974358974359,390
+"documentary, drama, thriller",3.2589285714285716,56
+"comedy, romance, thriller",3.258681991069952,12094
+"adventure, drama, fantasy, romance, thriller",3.257575757575758,33
+"action, adventure, fantasy",3.2565095541401274,137375
+"action, comedy, western",3.2557991513437057,7070
+"adventure, animation",3.253888888888889,900
+"drama, musical, thriller",3.253846153846154,130
+romance,3.2505505331478908,17256
+"action, crime, musical, romance",3.25,60
+"action, comedy, musical, sci-fi",3.25,42
+"animation, crime, war",3.25,20
+"comedy, crime, film-noir, mystery, romance, thriller",3.25,12
+"film-noir, mystery, romance, thriller",3.25,6
+"action, comedy, crime, drama, romance, thriller",3.25,2
+"adventure, children, documentary, drama",3.25,2
+"animation, crime, fantasy, mystery, sci-fi",3.25,2
+"children, horror, mystery",3.25,2
+"children, mystery, thriller",3.25,2
+"adventure, romance, sci-fi, imax",3.24980959634425,3939
+"fantasy, horror, musical",3.2493112947658402,363
+comedy,3.2490820939232434,1512682
+"comedy, drama, fantasy, musical, romance",3.2482517482517483,286
+"adventure, children, musical",3.2476268412438625,6110
+"animation, children, fantasy, mystery",3.2470744680851062,1880
+"adventure, comedy, horror, romance",3.2467532467532467,77
+"action, adventure, comedy, drama, romance",3.246328437917223,749
+"action, horror, sci-fi",3.246154377561829,43426
+"adventure, crime, horror, thriller",3.245,100
+"animation, fantasy, sci-fi, war",3.2448979591836733,196
+"action, fantasy, horror, thriller",3.2445839116528874,16571
+"action, adventure, fantasy, horror",3.2442371269417145,22081
+"sci-fi, thriller",3.243438374767883,36081
+"children, comedy, drama, romance",3.24,25
+"adventure, documentary, western",3.239130434782609,23
+"action, thriller, war",3.236407037397224,11311
+"comedy, fantasy, mystery, sci-fi",3.236111111111111,108
+"adventure, animation, children, musical",3.235513608428446,4556
+"action, adventure, animation, fantasy, sci-fi",3.234679904142417,2921
+"action, adventure, comedy, crime, sci-fi",3.232142857142857,56
+"adventure, comedy, crime, thriller",3.2315978456014363,557
+"action, adventure, fantasy, sci-fi",3.231096928858365,30868
+"adventure, comedy, romance",3.2307949902886612,14931
+"action, adventure, crime, thriller",3.229425828383578,26769
+"action, adventure, crime, mystery, thriller",3.2285714285714286,35
+"children, comedy, fantasy, sci-fi",3.227972399150743,1884
+"animation, children",3.227554406884196,34049
+"children, fantasy, romance",3.227272727272727,11
+"comedy, drama, mystery, sci-fi",3.2265625,64
+"action, drama",3.225859700562167,86629
+"action, adventure, drama, romance, thriller",3.2255813953488373,215
+"comedy, musical, western",3.2251243781094527,804
+"action, adventure, children, drama, fantasy",3.225,20
+"horror, romance, sci-fi",3.224343675417661,419
+"action, adventure, crime, mystery",3.2222222222222223,9
+"crime, fantasy, horror, thriller",3.2222222222222223,9
+"action, adventure, animation, comedy, fantasy, mystery, sci-fi",3.221917808219178,365
+"action, adventure, children, mystery, sci-fi",3.2215676229508197,1952
+"crime, drama, horror, thriller",3.221146953405018,2790
+"children, musical",3.22007874015748,3810
+"adventure, animation, children, fantasy, mystery, sci-fi",3.2196969696969697,66
+"action, adventure, children, crime, mystery, thriller",3.2196531791907512,173
+"action, comedy, sci-fi, thriller",3.2193932827735643,923
+"adventure, animation, fantasy, imax",3.2193486590038316,1044
+"mystery, romance, western",3.21875,16
+"action, crime, drama, romance, thriller",3.2159685863874348,382
+"adventure, sci-fi, thriller",3.21554950663491,8817
+"adventure, romance, western",3.2142857142857144,91
+"action, documentary, drama, romance, war",3.2142857142857144,14
+"animation, drama, romance, sci-fi",3.2134146341463414,82
+"comedy, romance, thriller, western",3.212121212121212,33
+"comedy, mystery",3.210410469958358,8405
+"action, drama, thriller, imax",3.2100474683544302,2528
+"adventure, war",3.2091055600322322,1241
+"action, adventure, romance, thriller",3.2086923167709194,33892
+"animation, children, comedy, drama, fantasy, musical",3.2083333333333335,12
+"fantasy, mystery, thriller",3.207971014492754,690
+"drama, war, western",3.2070365358592694,739
+"children, crime, drama",3.2063492063492065,63
+"fantasy, mystery, sci-fi",3.2058823529411766,68
+"animation, children, drama, fantasy, imax",3.2054655870445345,988
+"comedy, horror, sci-fi",3.205211726384365,15043
+"adventure, children, war",3.2045454545454546,22
+"horror, mystery, sci-fi",3.2024553090674135,4643
+"action, animation, crime, thriller",3.2023809523809526,42
+"animation, children, comedy, sci-fi",3.2023809523809526,42
+"action, drama, romance, sci-fi",3.2010862700517873,7917
+"action, adventure, comedy, fantasy, horror, thriller",3.2010470666735102,19483
+"action, adventure, comedy",3.2005430111727478,76794
+"action, comedy, horror, thriller",3.200531914893617,16920
+"children, fantasy, horror, romance",3.2,5
+"action, comedy, crime",3.199866953228943,48855
+"crime, drama, fantasy",3.1984126984126986,63
+"comedy, drama, horror",3.197118533071382,1527
+"horror, western",3.196816004508312,3549
+"adventure, horror, sci-fi",3.1958158995815897,1195
+"children, horror, mystery, thriller",3.1951754385964914,228
+"animation, children, thriller",3.1944444444444446,36
+"adventure, fantasy, film-noir, mystery, sci-fi",3.1931818181818183,44
+"action, crime, drama, romance, western",3.1923076923076925,52
+"drama, fantasy, romance, war",3.1923076923076925,13
+"drama, musical, mystery",3.1901840490797544,489
+"action, animation",3.188102893890675,933
+"action, adventure, animation, children, mystery",3.1875,32
+"documentary, drama, romance",3.1866666666666665,75
+"comedy, fantasy, sci-fi",3.185157421289355,16675
+"adventure, thriller",3.183364254792826,1617
+"action, adventure, comedy, drama, thriller",3.1829710144927534,276
+"drama, film-noir, horror, mystery",3.1822916666666665,96
+"animation, comedy, sci-fi",3.1821656050955416,785
+"adventure, sci-fi",3.1820498110151187,29632
+"action, animation, drama, thriller",3.18,25
+"adventure, drama, war, western",3.1790930053804765,1301
+"adventure, animation, comedy, fantasy, imax",3.179048171793384,1723
+"crime, drama, fantasy, horror, thriller",3.1790123456790123,1215
+"crime, musical",3.1758928571428573,560
+"adventure, children, comedy, fantasy, imax",3.1757178277213467,12503
+"adventure, drama, romance",3.1746968313991393,15338
+"action, adventure, drama, romance, war",3.1745644599303136,2870
+"crime, mystery, sci-fi",3.173228346456693,127
+"crime, drama, film-noir, romance",3.172727272727273,55
+"action, adventure, comedy, drama, mystery, romance, thriller",3.1724137931034484,29
+"comedy, mystery, romance",3.172248803827751,836
+"action, comedy, crime, fantasy",3.172135320906288,35353
+"animation, comedy, drama, musical",3.1690140845070425,71
+"horror, sci-fi, thriller",3.168650355518262,90572
+"adventure, animation, children, comedy, fantasy, sci-fi, imax",3.168539325842697,3115
+"action, drama, musical, romance",3.167910447761194,134
+"action, animation, fantasy, horror",3.1666666666666665,153
+"action, adventure, drama, fantasy, romance, sci-fi, thriller",3.1666666666666665,36
+"action, adventure, animation, mystery, sci-fi",3.1666666666666665,15
+"action, adventure, children, comedy, romance",3.1666666666666665,6
+"animation, horror, mystery, sci-fi",3.1666666666666665,6
+"action, adventure, fantasy, horror, sci-fi",3.1666666666666665,3
+"adventure, documentary, sci-fi",3.1666666666666665,3
+"drama, horror, sci-fi, war",3.1666666666666665,3
+"action, adventure, comedy, war",3.1658122235625252,9948
+"fantasy, musical",3.1650943396226414,212
+"adventure, thriller, western",3.1640625,704
+"fantasy, horror, mystery, thriller",3.1630056745378,5463
+"action, comedy, drama, western",3.1627906976744184,43
+"action, comedy, romance, western",3.1623376623376624,77
+"children, fantasy, musical, romance",3.16120218579235,183
+"action, adventure, comedy, crime",3.160526172647,55153
+"action, comedy, crime, drama, thriller",3.159680455442817,21781
+"adventure, animation, children, western",3.159053156146179,1204
+"children, fantasy, musical",3.1556156968876863,1478
+"action, comedy, crime, thriller",3.155582418944889,80655
+"action, horror, thriller",3.154728260869565,27600
+"animation, fantasy, sci-fi",3.1534653465346536,101
+"adventure, animation, drama, fantasy, musical, romance",3.153225806451613,62
+"action, crime, drama, thriller, western",3.1517857142857144,168
+"adventure, animation, children, comedy, drama",3.15,60
+"action, fantasy, horror, imax",3.149774383894481,2881
+"crime, romance",3.146,250
+"action, drama, horror, sci-fi, thriller",3.1443298969072164,2134
+"action, comedy, drama, fantasy, mystery, sci-fi, war",3.142857142857143,14
+"action, adventure, comedy, crime, drama, war",3.142857142857143,7
+"comedy, horror, musical, mystery, romance",3.142857142857143,7
+"action, comedy, thriller",3.1422922922922925,9990
+"children, comedy, drama, fantasy",3.1411516853932584,712
+"animation, fantasy, musical, imax",3.1395131086142323,1068
+"romance, thriller",3.1394,5000
+"action, adventure, comedy, crime, fantasy",3.1386393659180976,7570
+"drama, film-noir, romance, thriller",3.1379310344827585,29
+"adventure, drama, romance, western",3.1372549019607843,51
+"action, adventure, drama, imax",3.1369485294117645,544
+"drama, musical, war",3.1363636363636362,11
+"action, crime, horror, thriller",3.135725429017161,641
+"action, adventure, drama, fantasy, thriller",3.134318637274549,9980
+"action, fantasy, western",3.134020618556701,194
+"comedy, crime, romance, thriller",3.1308500477554917,1047
+"crime, drama, fantasy, mystery, thriller",3.1303680981595092,326
+"action, animation, drama, war",3.125,56
+"action, adventure, comedy, horror, thriller",3.125,4
+"action, children, comedy, drama, thriller",3.125,4
+"adventure, animation, comedy, mystery",3.125,4
+"adventure, animation, romance, sci-fi",3.125,4
+"adventure, crime, drama, fantasy, mystery, thriller",3.125,4
+"crime, fantasy, mystery",3.125,4
+"adventure, comedy",3.1244454887218045,106400
+"action, crime, thriller, imax",3.1231060606060606,5280
+"comedy, crime, drama, western",3.122340425531915,94
+"drama, fantasy, mystery, thriller",3.1220876048462256,1073
+"action, adventure, comedy, horror",3.121374045801527,655
+"action, adventure, fantasy, romance, imax",3.119301648884578,3093
+"adventure, comedy, western",3.1177531832217324,28823
+"animation, comedy, horror, sci-fi",3.1176470588235294,17
+"action, comedy, drama",3.1170606100620626,7573
+"action, animation, children",3.116279069767442,86
+"animation, fantasy, musical, sci-fi",3.1145833333333335,48
+"action, fantasy, romance",3.1136363636363638,66
+"crime, drama, horror, sci-fi",3.1136363636363638,22
+"animation, comedy, war",3.112941176470588,425
+"action, drama, imax",3.1121495327102804,214
+"animation, sci-fi, imax",3.1115431846090873,2443
+"action, horror, mystery",3.1097560975609757,82
+"animation, children, comedy, horror",3.109375,32
+"adventure, children, comedy, fantasy, musical",3.1085427135678394,1990
+"animation, children, fantasy, romance",3.1052631578947367,57
+"action, comedy, crime, mystery, thriller",3.1052631578947367,38
+"action, comedy, documentary, drama",3.1052631578947367,19
+"animation, children, drama, musical, romance",3.104549032605543,24137
+horror,3.1039730022408785,186534
+"adventure, children, comedy, drama",3.1031684698608966,2588
+"drama, fantasy, horror, mystery, thriller",3.10316435259929,3097
+"action, crime, drama, romance",3.1026785714285716,112
+"children, comedy, romance",3.1024143302180685,16692
+"action, adventure, drama, romance, western",3.102272727272727,44
+"action, animation, drama, mystery",3.1,5
+"action, comedy",3.0988360060233657,140121
+"action, horror, sci-fi, thriller",3.09749624201428,63864
+adventure,3.093948412698413,5040
+"action, crime, film-noir",3.093655589123867,331
+"adventure, animation, fantasy, sci-fi",3.091719298245614,7125
+"action, animation, children, sci-fi",3.0914221218961626,443
+"adventure, comedy, crime, drama, fantasy, mystery, sci-fi, thriller",3.090909090909091,44
+"action, drama, romance, thriller",3.0908946700507616,3152
+"action, crime, drama, sci-fi, thriller",3.0888340068851967,20043
+"musical, western",3.0883838383838382,396
+"thriller, western",3.0867768595041323,121
+"adventure, comedy, horror",3.086429112964367,1319
+"action, drama, mystery",3.0841708542713566,3980
+"horror, mystery, thriller",3.083376222336593,75777
+"comedy, mystery, romance, thriller",3.0833333333333335,12
+"action, crime, horror, mystery, thriller",3.082923832923833,814
+"comedy, horror",3.0819952752708413,108366
+"crime, documentary, mystery",3.081081081081081,37
+"drama, horror, romance, thriller",3.0783143264433357,5612
+"comedy, documentary, drama, romance",3.0778443113772456,167
+"animation, comedy, thriller",3.076923076923077,13
+"adventure, drama, horror, mystery",3.076452599388379,327
+"crime, drama, mystery, romance",3.0762711864406778,118
+"children, musical, sci-fi",3.0757575757575757,33
+"adventure, children, comedy, drama, fantasy, sci-fi",3.0742574257425743,101
+"children, western",3.073529411764706,102
+"crime, drama, musical, thriller",3.0727788279773156,529
+"action, animation, crime, mystery",3.0727272727272728,55
+"adventure, comedy, documentary",3.0722222222222224,90
+"action, adventure, animation, children, comedy, sci-fi",3.071981424148607,3876
+"film-noir, horror",3.0714285714285716,49
+"action, drama, fantasy, horror, sci-fi, thriller",3.0714285714285716,14
+"crime, drama, thriller, western",3.07088122605364,261
+"mystery, western",3.0703125,64
+"action, crime, fantasy, sci-fi, thriller",3.0701876302988187,1439
+"action, adventure, romance, war",3.0674603174603177,126
+"action, thriller, western",3.0670305676855896,6870
+"drama, horror, thriller, war",3.066666666666667,90
+"action, adventure, animation, sci-fi, thriller",3.066666666666667,60
+"comedy, sci-fi",3.0654038490680406,98985
+"comedy, horror, mystery, sci-fi",3.063775510204082,196
+"adventure, animation, children, comedy, mystery",3.0625,32
+"adventure, children, comedy, imax",3.0625,16
+"comedy, crime, horror",3.0605409278165863,5583
+"action, adventure, children, romance",3.0588235294117645,17
+"action, comedy, war",3.056787255227348,15065
+"drama, fantasy, mystery, romance, sci-fi",3.0555555555555554,18
+"action, drama, fantasy, war",3.0526315789473686,38
+"adventure, children, drama, fantasy, mystery",3.0526315789473686,19
+"adventure, children, fantasy, western",3.0514018691588785,214
+"action, drama, fantasy, sci-fi",3.0498154981549814,271
+"action, crime, drama, sci-fi",3.047872340425532,282
+"fantasy, mystery, sci-fi, thriller",3.0476190476190474,21
+"action, documentary",3.046875,32
+"action, drama, musical, war",3.046875,32
+"action, comedy, fantasy, imax",3.0459352280237937,6052
+"action, romance, sci-fi, thriller",3.045727572175935,30966
+"animation, children, comedy, drama, fantasy",3.0442727957799547,2654
+"action, adventure, drama, romance",3.0439955727725514,1807
+"adventure, mystery, western",3.0434782608695654,23
+"comedy, drama, musical, mystery",3.043181818181818,220
+"comedy, fantasy, horror, thriller",3.042335473515249,4984
+"action, adventure, horror, sci-fi, thriller",3.042134831460674,178
+"comedy, fantasy, horror, mystery",3.0416666666666665,12
+"adventure, children, comedy, fantasy",3.0411389297987235,10185
+"drama, horror, mystery, sci-fi",3.038793103448276,116
+"animation, horror, mystery",3.0344827586206895,29
+"adventure, crime, thriller",3.034090909090909,352
+"musical, sci-fi",3.032258064516129,155
+"adventure, animation, children, musical, western",3.030518586507572,2179
+"adventure, fantasy, mystery, thriller",3.0303030303030303,33
+"animation, children, comedy, thriller",3.0303030303030303,33
+"action, crime, horror",3.026488785769528,2586
+"adventure, romance, imax",3.023076923076923,65
+"children, fantasy, horror, mystery, sci-fi, thriller",3.02258064516129,155
+"comedy, drama, mystery, romance, thriller",3.0217391304347827,23
+"action, drama, fantasy",3.0210241465445464,2402
+"comedy, crime, horror, thriller",3.0202020202020203,99
+"action, adventure, comedy, thriller",3.017182727020272,14404
+"adventure, drama, fantasy, romance",3.016779606324621,6198
+"adventure, children",3.0166694729752486,35634
+"action, romance, sci-fi",3.0142857142857142,35
+"action, children, drama",3.0107438016528927,1815
+"action, comedy, fantasy",3.0082751209027405,9305
+"action, crime, sci-fi",3.0034934051327493,29341
+"action, comedy, imax",3.0031486146095716,2382
+"action, animation, crime, drama",3.0017123287671232,292
+"action, children, sci-fi, imax",3.001190476190476,840
+"animation, documentary, drama",3.0,23
+"adventure, animation, drama, romance, war",3.0,17
+"action, adventure, romance, western",3.0,11
+"action, adventure, crime, romance, western",3.0,10
+"action, children, drama, romance",3.0,10
+"adventure, animation, children, mystery, romance",3.0,9
+"action, children, comedy, drama, fantasy",3.0,7
+"action, adventure, crime, western",3.0,5
+"action, comedy, crime, documentary",3.0,5
+"action, comedy, drama, romance, war",3.0,5
+"adventure, mystery, romance, thriller",3.0,5
+"drama, mystery, romance, sci-fi",3.0,5
+"adventure, comedy, mystery, western",3.0,4
+"animation, comedy, sci-fi, war",3.0,4
+"drama, film-noir, mystery, romance, sci-fi",3.0,4
+"action, adventure, crime, drama, sci-fi, thriller, war",3.0,3
+"action, sci-fi, thriller, war",3.0,3
+"adventure, crime, thriller, western",3.0,3
+"children, drama, western",3.0,3
+"adventure, comedy, crime, drama, romance, thriller",3.0,2
+"adventure, comedy, horror, sci-fi",3.0,2
+"adventure, documentary, drama, war",3.0,2
+"comedy, horror, western",3.0,2
+"action, children, crime, drama",3.0,1
+"animation, documentary, sci-fi",3.0,1
+"animation, fantasy, horror, thriller",3.0,1
+"comedy, crime, documentary",3.0,1
+"comedy, horror, mystery, sci-fi, western",3.0,1
+"comedy, horror, mystery",2.994134897360704,341
+"adventure, animation, comedy, fantasy",2.9935794542536116,623
+"comedy, drama, fantasy, horror, thriller",2.9875,40
+"action, fantasy, horror, sci-fi",2.9833333333333334,30
+"drama, fantasy, mystery, romance, thriller",2.983050847457627,826
+"action, adventure, comedy, crime, drama, film-noir, horror, mystery, thriller, western",2.9785202863961815,419
+"fantasy, mystery, sci-fi, war",2.9782608695652173,69
+"action, comedy, musical, romance",2.977272727272727,22
+"horror, thriller",2.9769347243809974,174353
+"crime, horror, mystery, sci-fi, thriller",2.976470588235294,85
+"comedy, horror, mystery, thriller",2.9745156056122934,31431
+"action, war",2.973795039775386,12822
+"adventure, animation, children, comedy, imax",2.9706827924066137,6532
+"action, adventure, comedy, documentary, fantasy",2.9696969696969697,99
+"action, children, comedy, romance",2.9680851063829787,47
+"action, drama, war, imax",2.967005076142132,1576
+"animation, children, romance",2.9651162790697674,43
+"children, comedy, fantasy",2.962952144491505,82164
+"action, adventure, crime, sci-fi, thriller",2.9629337539432177,634
+"adventure, animation, comedy, crime",2.96199595575116,8407
+"action, comedy, drama, war",2.9615384615384617,26
+"adventure, children, comedy, crime",2.9565217391304346,23
+"action, crime, drama, horror",2.9545454545454546,55
+"animation, children, comedy, fantasy, musical",2.9545454545454546,11
+"action, animation, sci-fi, war",2.95,20
+"adventure, mystery",2.95,10
+"action, adventure, western, imax",2.9461444308445532,1634
+"children, comedy, drama, fantasy, sci-fi",2.9444444444444446,9
+"horror, mystery, western",2.9444444444444446,9
+"comedy, horror, romance",2.9429945054945055,4368
+action,2.942047497398051,42276
+"adventure, horror, mystery, thriller",2.9420289855072466,138
+"action, adventure, fantasy, mystery",2.941531200839014,3814
+"action, adventure, drama, sci-fi",2.938155333710052,15927
+"action, comedy, crime, drama, mystery",2.9375,8
+"action, romance, war",2.9375,8
+"adventure, crime, drama, mystery, thriller",2.9375,8
+"mystery, thriller, war",2.9375,8
+"crime, drama, musical",2.9351535836177476,293
+"action, comedy, documentary",2.9347826086956523,4991
+"action, adventure, drama, thriller, war",2.9296424452133794,867
+"action, fantasy, mystery, sci-fi, thriller",2.9285714285714284,14
+"action, crime, drama, fantasy, romance",2.923076923076923,52
+"action, adventure, comedy, crime, thriller, war",2.9166666666666665,12
+"action, crime, mystery, romance, sci-fi, thriller",2.9166666666666665,6
+"action, fantasy, thriller, imax",2.9125615763546797,2436
+"action, adventure, crime, mystery, romance",2.911764705882353,17
+"comedy, romance, sci-fi, thriller",2.9095394736842106,608
+"children, fantasy, horror, sci-fi",2.909090909090909,11
+"adventure, comedy, drama, fantasy, romance",2.9085053987497633,5279
+"comedy, thriller",2.9065474635111426,26789
+"children, comedy, fantasy, horror",2.9037425955842755,3714
+"action, adventure, comedy, crime, romance, thriller",2.9019607843137254,204
+"fantasy, horror",2.9016314779270633,6252
+"action, fantasy, romance, thriller",2.9,20
+"adventure, comedy, documentary, fantasy",2.9,5
+"fantasy, horror, war",2.9,5
+"action, crime, sci-fi, imax",2.897867564534231,1782
+"action, adventure, fantasy, romance, sci-fi",2.8974358974358974,39
+"action, adventure, crime, drama, sci-fi",2.8958333333333335,24
+"children, comedy, drama, musical",2.8950617283950617,162
+"action, comedy, fantasy, horror, thriller",2.8933823529411766,136
+"action, comedy, crime, drama, war",2.892857142857143,14
+"comedy, horror, imax",2.890715109573241,1734
+"children, comedy",2.8893048364321015,135968
+"action, children, fantasy, sci-fi",2.888888888888889,9
+"action, adventure, comedy, fantasy, mystery",2.8877792378449407,3805
+"action, adventure, animation, comedy, thriller",2.887323943661972,71
+"children, comedy, mystery",2.8850156087408947,1922
+"drama, film-noir, war",2.8846153846153846,26
+"comedy, drama, musical, imax",2.8823529411764706,340
+"action, animation, horror, thriller",2.8823529411764706,51
+"horror, thriller, imax",2.880434782608696,644
+"fantasy, musical, romance",2.8751375137513753,909
+"action, crime, romance",2.875,460
+"adventure, fantasy, horror, romance, sci-fi, thriller",2.875,68
+"action, comedy, drama, fantasy, sci-fi, imax",2.875,24
+"children, horror",2.875,20
+"adventure, horror, sci-fi, thriller",2.875,8
+"horror, romance, sci-fi, thriller",2.875,8
+"animation, fantasy, musical",2.875,4
+"drama, horror, mystery, sci-fi, thriller",2.874948917041275,2447
+"action, animation, comedy, crime, drama, romance, thriller",2.8728386167146973,1388
+"action, adventure, animation, fantasy, imax",2.870321361058601,2645
+"action, animation, fantasy, sci-fi, thriller",2.8684210526315788,38
+"action, comedy, mystery, romance, thriller",2.8684210526315788,19
+"action, drama, mystery, thriller",2.8648325358851676,418
+"comedy, musical, romance, war",2.8636363636363638,11
+"crime, drama, musical, romance",2.86,50
+"children, drama, fantasy, sci-fi",2.856164383561644,73
+"children, comedy, western",2.8559935639581657,2486
+"children, comedy, horror",2.8552631578947367,38
+"horror, thriller, war",2.8548387096774195,31
+"action, comedy, drama, musical, romance",2.8529411764705883,51
+"action, children, comedy, fantasy, sci-fi",2.8507104262557537,4997
+"children, sci-fi",2.8505170792854906,3191
+"adventure, children, drama",2.850319045387361,27739
+"animation, drama, horror, thriller",2.85,10
+"adventure, children, comedy",2.8490627724498694,18352
+"drama, fantasy, sci-fi, thriller",2.845303867403315,362
+"comedy, crime, drama, horror, mystery, romance, thriller",2.8421052631578947,19
+"action, fantasy, sci-fi",2.841542410168663,8182
+"comedy, documentary, romance",2.839160839160839,143
+"horror, sci-fi, thriller, war",2.836734693877551,49
+"action, drama, horror, romance, sci-fi",2.8333333333333335,36
+"animation, comedy, horror",2.8333333333333335,15
+"comedy, fantasy, horror, romance",2.8333333333333335,12
+"adventure, animation, comedy, drama, fantasy, sci-fi",2.8333333333333335,9
+"adventure, comedy, romance, sci-fi",2.8333333333333335,9
+"animation, children, comedy, mystery, western",2.8333333333333335,9
+"children, drama, mystery, thriller",2.8333333333333335,9
+"action, adventure, children, fantasy, sci-fi",2.8333333333333335,6
+"adventure, crime, drama, mystery, romance",2.8333333333333335,6
+"action, adventure, comedy, drama, horror",2.8333333333333335,3
+"action, adventure, mystery",2.8333333333333335,3
+"action, animation, crime, drama, mystery",2.8333333333333335,3
+"children, comedy, fantasy, mystery, sci-fi",2.8333333333333335,3
+"comedy, crime, fantasy",2.832317073170732,164
+"comedy, crime, musical",2.831841909023117,1341
+"action, adventure, imax",2.826923076923077,156
+"action, sci-fi, thriller, western, imax",2.8267987065481,2474
+"action, fantasy, horror, sci-fi, thriller",2.824009324009324,429
+"comedy, crime, western",2.823529411764706,51
+"animation, children, fantasy, war",2.822786425108446,3919
+"action, adventure, children, fantasy",2.8212091179385532,5045
+"action, sci-fi, war",2.819650768829815,3837
+"action, adventure, animation, children, fantasy",2.818988173455979,1522
+"action, drama, fantasy, horror, thriller, war",2.8181818181818183,33
+"action, adventure, comedy, sci-fi, imax",2.8168316831683167,404
+"comedy, drama, horror, sci-fi",2.815068493150685,73
+"action, adventure, comedy, crime, thriller",2.814401400744145,9138
+"comedy, fantasy, romance, sci-fi",2.8116700515544446,19203
+"adventure, animation, children, comedy, fantasy, sci-fi",2.8112391930835736,11798
+"action, animation, children, comedy",2.811184210526316,760
+"horror, musical",2.810810810810811,74
+"action, horror, musical",2.8076923076923075,13
+"animation, horror, imax",2.8055555555555554,18
+"comedy, drama, fantasy, sci-fi",2.8050314465408803,1590
+"action, adventure, fantasy, war",2.801470588235294,272
+"action, crime, horror, sci-fi",2.8,10
+"adventure, fantasy, horror, sci-fi",2.8,5
+"adventure, thriller, war",2.8,5
+"animation, comedy, documentary",2.8,5
+"drama, fantasy, horror, sci-fi, thriller",2.7969924812030076,133
+"action, crime, western",2.7966101694915255,59
+"drama, fantasy, horror, mystery, romance",2.7941176470588234,34
+"adventure, musical, romance, sci-fi",2.790909090909091,55
+"animation, children, comedy, musical, sci-fi",2.789473684210526,38
+"drama, sci-fi, thriller, imax",2.7862980769230767,2080
+"adventure, drama, horror, mystery, thriller",2.785809906291834,747
+"action, children, comedy, crime, drama, romance",2.7857142857142856,35
+"animation, documentary, war",2.7857142857142856,14
+"action, comedy, crime, horror, thriller",2.7857142857142856,7
+"action, drama, mystery, sci-fi, thriller, war",2.7857142857142856,7
+"adventure, romance",2.7847222222222223,3528
+"adventure, children, fantasy, sci-fi, thriller",2.7835276967930027,686
+"comedy, musical, sci-fi",2.782369942196532,1730
+"action, comedy, film-noir, musical, sci-fi",2.7777777777777777,9
+"comedy, crime, drama, horror, mystery, thriller",2.7777777777777777,9
+"action, comedy, crime, western",2.7775,400
+"adventure, fantasy, romance, sci-fi, thriller",2.7749719416386083,2673
+children,2.7740026304252523,2281
+"horror, imax",2.7711092715231787,1208
+"action, mystery, romance",2.7666666666666666,15
+"drama, horror, musical",2.7584745762711864,118
+"crime, thriller, western",2.7580645161290325,31
+"action, adventure, crime, drama, romance, thriller",2.7577220077220077,1036
+"action, comedy, romance, thriller",2.7575452716297786,2982
+"fantasy, horror, sci-fi, western",2.754918032786885,610
+"animation, children, musical, romance",2.75,18
+"comedy, crime, drama, horror, thriller",2.75,8
+"comedy, musical, mystery, thriller",2.75,8
+"action, adventure, animation, children, drama",2.75,6
+"adventure, drama, fantasy, musical, romance",2.75,6
+"action, children, comedy, drama",2.75,4
+"adventure, comedy, drama, thriller",2.75,2
+"animation, fantasy, romance",2.75,2
+"children, comedy, fantasy, mystery",2.75,2
+"comedy, crime, drama, sci-fi, thriller",2.739130434782609,23
+"comedy, drama, horror, romance, thriller",2.739130434782609,23
+"action, animation, comedy, horror, thriller",2.7388059701492535,67
+"children, comedy, fantasy, romance",2.7385077793493635,2828
+"comedy, drama, sci-fi, thriller",2.7345041322314048,484
+"action, musical, romance",2.7333333333333334,15
+"action, drama, mystery, thriller, war",2.730769230769231,26
+"children, comedy, romance, sci-fi",2.7239583333333335,768
+"adventure, animation, children, fantasy, musical, romance",2.723913043478261,2070
+"action, fantasy, horror, mystery",2.7222222222222223,9
+"action, adventure, sci-fi, war, imax",2.7216187806587246,2854
+"action, animation, children, fantasy",2.720665499124343,571
+"adventure, animation, children, romance",2.7203389830508473,59
+"action, comedy, crime, fantasy, thriller, imax",2.7201346045989903,1783
+"adventure, children, comedy, fantasy, sci-fi",2.718600608431117,16107
+"horror, thriller, western",2.7153846153846155,130
+"action, adventure, children, comedy, crime",2.7152777777777777,144
+"action, adventure, horror, thriller",2.7142857142857144,7
+"animation, drama, fantasy, sci-fi",2.7142857142857144,7
+"comedy, fantasy, thriller",2.711651628089447,2549
+"adventure, animation, children, comedy, fantasy, war",2.709537572254335,346
+"drama, fantasy, horror, sci-fi",2.707547169811321,53
+"comedy, fantasy, musical",2.70707343412527,1852
+"adventure, horror, thriller",2.7042682926829267,164
+"adventure, comedy, mystery",2.700310559006211,644
+"children, fantasy, horror",2.7,5
+"action, adventure, comedy, crime, drama, thriller",2.6923076923076925,13
+"comedy, horror, romance, thriller",2.683660676974509,2393
+"drama, horror, mystery, thriller, war",2.683333333333333,30
+"action, adventure, fantasy, mystery, sci-fi",2.6818181818181817,11
+"adventure, children, mystery",2.675,20
+"drama, film-noir, musical",2.6666666666666665,9
+"children, comedy, horror, thriller",2.6666666666666665,6
+"children, thriller",2.6666666666666665,6
+"comedy, fantasy, mystery, sci-fi, thriller",2.6666666666666665,6
+"children, horror, sci-fi, thriller",2.6666666666666665,3
+"comedy, mystery, romance, western",2.6666666666666665,3
+"horror, mystery, romance, thriller",2.6666666666666665,3
+"action, adventure, children",2.666355140186916,3745
+"animation, children, comedy, musical, western",2.665525114155251,438
+"animation, children, comedy, fantasy, mystery, romance",2.659090909090909,44
+"adventure, comedy, mystery, romance",2.6580459770114944,2958
+"action, fantasy, horror, mystery, thriller",2.653241273494438,5214
+"action, crime, thriller, war",2.6507936507936507,126
+"action, adventure, fantasy, horror, thriller",2.646694214876033,726
+"adventure, animation, drama, sci-fi",2.642857142857143,7
+"animation, children, comedy, fantasy, sci-fi",2.642857142857143,7
+"children, comedy, drama, sci-fi",2.642857142857143,7
+"action, comedy, horror, sci-fi",2.6426248891516404,3383
+"animation, comedy, musical, romance",2.638888888888889,18
+"animation, drama, thriller",2.6363636363636362,11
+"crime, drama, horror, musical",2.6363636363636362,11
+"comedy, drama, fantasy, mystery, sci-fi, thriller",2.6346153846153846,26
+"adventure, children, comedy, fantasy, romance",2.632252027448534,1603
+"action, adventure, horror, mystery, sci-fi, thriller",2.6315240083507305,479
+"action, adventure, mystery, sci-fi, thriller",2.6310679611650487,103
+"action, adventure, drama, fantasy, sci-fi, thriller",2.625,4
+"action, adventure, comedy, mystery",2.619565217391304,46
+"children, drama, horror",2.6153846153846154,13
+"action, adventure, sci-fi, western",2.612,125
+"action, drama, musical",2.611111111111111,9
+"action, adventure, animation, children, comedy, sci-fi, imax",2.6083333333333334,180
+"action, comedy, thriller, western",2.6052631578947367,57
+"action, adventure, mystery, sci-fi",2.6023358085213757,13871
+"action, children, fantasy",2.598850574712644,3045
+"action, fantasy, sci-fi, imax",2.5964912280701755,399
+"children, comedy, drama, musical, romance",2.589041095890411,1168
+"adventure, drama, horror",2.5865384615384617,52
+"adventure, children, comedy, musical, sci-fi",2.5849056603773586,53
+"documentary, horror, thriller",2.5833333333333335,24
+"action, adventure, horror",2.58125,240
+"adventure, animation, children, comedy, romance",2.5734265734265733,143
+"crime, horror, mystery, sci-fi",2.5725806451612905,62
+"action, adventure, drama, musical, romance, thriller, war",2.5714285714285716,21
+"adventure, comedy, drama, fantasy",2.5708955223880596,268
+"adventure, comedy, crime, mystery",2.5657276995305165,426
+"action, adventure, children, comedy",2.5613718411552346,12465
+"action, animation, children, comedy, sci-fi",2.56,50
+"adventure, drama, fantasy, thriller",2.5555555555555554,9
+"children, comedy, drama, thriller",2.5555555555555554,9
+"horror, war",2.5526315789473686,57
+"animation, children, sci-fi",2.5483870967741935,31
+"action, adventure, crime, fantasy",2.5454545454545454,22
+"action, animation, comedy, romance, western",2.5454545454545454,11
+"adventure, comedy, sci-fi, thriller, war",2.5384615384615383,13
+"adventure, romance, thriller",2.5321245565628696,2537
+"children, comedy, crime, mystery",2.53125,16
+"action, adventure, thriller, western",2.5294117647058822,17
+"action, musical, sci-fi",2.526315789473684,38
+"adventure, mystery, sci-fi",2.525,20
+"adventure, drama, fantasy, romance, imax",2.5242192479286167,1569
+"animation, children, fantasy, sci-fi",2.5166666666666666,30
+"action, crime, sci-fi, thriller",2.502869166029074,5228
+"fantasy, horror, romance",2.5,29
+"action, adventure, comedy, drama, fantasy, thriller",2.5,23
+"children, fantasy, horror, thriller",2.5,12
+"action, children, crime, drama, thriller",2.5,9
+"adventure, drama, horror, sci-fi",2.5,8
+"action, adventure, crime, drama, fantasy, horror, mystery",2.5,6
+"animation, children, fantasy, thriller",2.5,5
+"animation, comedy, romance, sci-fi",2.5,4
+"crime, mystery, romance",2.5,4
+"action, adventure, crime, drama, romance",2.5,3
+"action, animation, children, comedy, fantasy",2.5,3
+"adventure, children, comedy, fantasy, romance, sci-fi",2.5,3
+"fantasy, horror, western",2.5,3
+"action, adventure, crime, film-noir, romance",2.5,2
+"action, adventure, documentary, drama, thriller, western",2.5,2
+"action, adventure, war, western",2.5,2
+"adventure, crime, mystery, romance, thriller",2.5,2
+"children, comedy, drama, western",2.5,2
+"action, comedy, documentary, drama, romance, thriller",2.5,1
+"action, crime, drama, film-noir, mystery, romance, thriller",2.5,1
+"action, horror, war",2.5,1
+"adventure, comedy, crime, drama, mystery",2.5,1
+"animation, comedy, drama, fantasy, romance",2.5,1
+"comedy, crime, drama, romance, western",2.5,1
+imax,2.4814814814814814,27
+"adventure, children, comedy, romance, sci-fi",2.4711538461538463,416
+"adventure, children, comedy, fantasy, horror",2.460526315789474,38
+"adventure, fantasy, romance, sci-fi",2.46,25
+"adventure, documentary, imax",2.452991452991453,117
+"action, adventure, thriller, war",2.4517142109395444,3821
+"action, drama, fantasy, horror, mystery, sci-fi, thriller",2.4515625,320
+"action, fantasy, thriller",2.447840909090909,4400
+"action, adventure, crime, drama",2.4449468085106383,1880
+"action, fantasy, sci-fi, thriller",2.437984496124031,1677
+"drama, fantasy, romance, thriller",2.4354312354312353,6435
+"action, drama, mystery, sci-fi",2.430379746835443,79
+"action, adventure, drama, fantasy, horror, romance, sci-fi",2.4285714285714284,14
+"adventure, children, fantasy, sci-fi",2.424550898203593,835
+"action, drama, horror, mystery",2.411764705882353,17
+"adventure, horror, mystery",2.41025641025641,39
+"action, horror, mystery, sci-fi",2.4029126213592233,103
+"adventure, crime",2.4,10
+"children, mystery, sci-fi",2.391304347826087,23
+"drama, horror, mystery, romance",2.388888888888889,9
+"action, fantasy",2.37779433681073,4026
+"fantasy, romance, thriller, imax",2.3773188659432973,2857
+"drama, horror, romance, sci-fi, thriller",2.375,8
+"drama, sci-fi, war",2.375,4
+"action, comedy, crime, drama, musical, romance",2.364864864864865,37
+"action, comedy, fantasy, thriller",2.3593519882179677,679
+"crime, horror, romance",2.357142857142857,14
+"adventure, children, sci-fi, thriller",2.3552631578947367,38
+"drama, fantasy, horror, romance, thriller",2.351161154116819,2842
+"adventure, children, comedy, fantasy, mystery",2.3504328310355884,3119
+"animation, crime, sci-fi",2.35,10
+"fantasy, sci-fi, thriller",2.347826086956522,23
+"adventure, horror",2.3461538461538463,195
+"adventure, musical",2.341246290801187,337
+"comedy, drama, fantasy, romance, sci-fi",2.3333333333333335,3
+"action, adventure, children, drama, fantasy, sci-fi",2.3214285714285716,14
+"crime, horror, sci-fi",2.32,75
+"action, comedy, sci-fi, western",2.31967073274759,11723
+"action, adventure, fantasy, thriller",2.316344057607188,15137
+"children, comedy, sci-fi",2.315327713745054,5813
+"comedy, drama, horror, romance",2.3125,8
+"adventure, comedy, fantasy, horror",2.308333333333333,60
+"animation, children, comedy, fantasy, horror",2.3076923076923075,13
+"action, children, comedy, crime",2.3,5
+"action, children, comedy, drama, fantasy, thriller",2.3,5
+"comedy, drama, fantasy, thriller",2.3,5
+"adventure, children, comedy, sci-fi",2.291828793774319,257
+"action, adventure, children, comedy, mystery",2.283109404990403,1042
+"sci-fi, thriller, western",2.2777777777777777,9
+"action, children, romance",2.2760266049739735,3458
+"action, horror, mystery, thriller",2.2566176470588237,680
+"animation, children, drama, sci-fi",2.25,10
+"action, adventure, comedy, crime, mystery, romance",2.25,4
+"fantasy, mystery",2.25,4
+"action, drama, horror, war",2.25,2
+"adventure, crime, mystery",2.25,2
+"animation, comedy, crime",2.25,2
+"action, crime, fantasy",2.232025164769323,3338
+"adventure, animation, children, fantasy, sci-fi",2.2099329677026205,1641
+"children, fantasy, sci-fi",2.202970297029703,202
+"action, adventure, children, drama",2.1939461883408073,3568
+"action, adventure, children, comedy, sci-fi",2.16710182767624,383
+"crime, mystery, sci-fi, thriller",2.1666666666666665,207
+"action, adventure, comedy, horror, sci-fi, thriller",2.1666666666666665,3
+"action, crime, drama, mystery, romance, thriller",2.1666666666666665,3
+"horror, mystery, thriller, western",2.1666666666666665,3
+"action, comedy, drama, horror",2.1643518518518516,216
+"adventure, fantasy, horror",2.1607142857142856,28
+"action, comedy, horror, musical",2.1481481481481484,27
+"action, adventure, comedy, fantasy, sci-fi, thriller",2.1447368421052633,38
+"action, comedy, crime, romance, thriller",2.1363636363636362,11
+"action, children, comedy",2.112771255780861,2811
+"action, children, fantasy, musical",2.1,10
+"documentary, mystery, romance, sci-fi",2.1,5
+"action, drama, horror, sci-fi",2.0892857142857144,28
+"comedy, crime, horror, mystery, thriller",2.0869565217391304,184
+"action, adventure, crime, horror",2.0833333333333335,6
+"action, adventure, children, comedy, fantasy, sci-fi",2.0785227680172103,5578
+"action, horror, sci-fi, western",2.075,20
+"comedy, fantasy, horror, sci-fi",2.0625,72
+"animation, drama, musical",2.0555555555555554,9
+"action, horror, mystery, sci-fi, thriller",2.05,10
+"action, horror, sci-fi, war",2.017123287671233,438
+"action, fantasy, sci-fi, thriller, war",2.0072463768115942,69
+"children, drama, sci-fi, thriller",2.0,6
+"action, crime, documentary, thriller",2.0,3
+"drama, horror, western",2.0,3
+"action, comedy, fantasy, romance, sci-fi",2.0,2
+"action, crime, drama, musical",2.0,2
+"comedy, drama, war, western",2.0,2
+"action, adventure, crime, horror, sci-fi",2.0,1
+"action, crime, fantasy, romance",2.0,1
+"action, drama, fantasy, thriller",2.0,1
+"action, fantasy, horror, war",2.0,1
+"action, horror, mystery, romance",2.0,1
+"action, sci-fi, western",2.0,1
+"adventure, children, drama, western",2.0,1
+"children, comedy, crime, fantasy",2.0,1
+"comedy, crime, horror, sci-fi, thriller",2.0,1
+"action, children",1.9808236403646653,3181
+"children, comedy, crime",1.9786967418546366,399
+"fantasy, horror, sci-fi",1.9709302325581395,86
+"horror, sci-fi, western",1.9583333333333333,12
+"documentary, horror",1.9486068111455108,1615
+"adventure, animation, children, imax",1.9305555555555556,72
+"action, adventure, romance, sci-fi",1.9285714285714286,35
+"adventure, crime, horror",1.9230769230769231,13
+"adventure, drama, horror, sci-fi, thriller",1.9076086956521738,644
+"action, animation, comedy, thriller",1.9,5
+"action, drama, fantasy, sci-fi, thriller",1.8,5
+"children, horror, sci-fi",1.7916666666666667,12
+"children, comedy, thriller",1.75,2
+"crime, drama, sci-fi",1.75,2
+"action, comedy, horror, mystery",1.7307692307692308,13
+"action, adventure, fantasy, sci-fi, thriller",1.7266666666666666,75
+"comedy, film-noir, thriller",1.7205882352941178,34
+"action, comedy, horror, romance, thriller",1.7,5
+"adventure, children, comedy, horror",1.7,5
+"adventure, comedy, musical, romance, sci-fi",1.675,20
+"action, adventure, fantasy, musical, romance",1.6666666666666667,6
+"action, adventure, crime, war",1.6666666666666667,3
+"action, adventure, horror, mystery",1.6666666666666667,3
+"action, adventure, mystery, romance",1.6666666666666667,3
+"action, children, drama, mystery, thriller",1.625,4
+"action, comedy, horror, western",1.625,4
+"animation, horror, sci-fi",1.5625,8
+"adventure, crime, drama, romance",1.5460829493087558,217
+"comedy, fantasy, horror, sci-fi, thriller",1.5,13
+"action, horror, sci-fi, war, western",1.5,4
+"action, documentary, sci-fi",1.5,3
+"adventure, children, romance, sci-fi",1.5,3
+"adventure, comedy, crime, sci-fi",1.5,3
+"action, adventure, crime, drama, mystery",1.5,1
+"crime, drama, horror, mystery, sci-fi, thriller",1.5,1
+"crime, drama, horror, romance",1.5,1
+"adventure, animation, children, fantasy, musical, sci-fi",1.4444444444444444,9
+"comedy, crime, drama, fantasy, horror",1.4444444444444444,9
+"action, adventure, fantasy, musical",1.4285714285714286,7
+"action, drama, mystery, romance, sci-fi",1.3333333333333333,3
+"action, adventure, crime, romance",1.25,2
+"action, horror, western",1.2,5
+"comedy, horror, romance, sci-fi",1.0,2
+"action, adventure, comedy, fantasy, horror, sci-fi",1.0,1
+"action, drama, horror, mystery, thriller",1.0,1
+"comedy, sci-fi, thriller, western",1.0,1
+"action, adventure, drama, horror, sci-fi",0.75,2
+"documentary, drama, horror",0.5,3
+"action, adventure, comedy, drama, romance, western",0.5,1
+"action, adventure, fantasy, horror, sci-fi, thriller",0.5,1
+"comedy, horror, mystery, romance",0.5,1
