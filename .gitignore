@@ -1,0 +1,2 @@
+# Ignorar archivos grandes de MovieLens
+movielens_project/data/Official\ data/*.csv
