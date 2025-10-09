@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBzvH6sDLHbOZYU/giphy.gif" alt="Data Engineering GIF" width="600"/>
+</p>
+
 # 📊 Data Projects Portfolio - Matias Kostiak
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/Matias-Kostiak-Data/data-projects?style=flat-square)](https://github.com/Matias-Kostiak-Data/data-projects)
@@ -16,19 +20,12 @@
 
 **Hi! I’m Matias Kostiak**, a Data Engineer from **Paraguay**.  
 I graduated from **Platzi** with multiple certifications in Data Engineering.  
-I design **scalable data pipelines, automated ETL workflows, dashboards, and analytics reports** for freelance and client projects ($50–$500+).  
+I design **scalable data pipelines, automated ETL workflows, dashboards, and analytics reports** for freelance and client projects.  
 
 **Technologies / Tecnologías:**  
-Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Jupyter, Spark, AWS, GCP, Docker, Airflow, PostgreSQL, MySQL, APIs, Cloud Storage, Git/GitHub, Tableau, Power BI, BigQuery, Docker, Flask, FastAPI.
+Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Jupyter, Spark, AWS, GCP, Docker, Airflow, PostgreSQL, MySQL, APIs, Cloud Storage, Git/GitHub, Tableau, Power BI, BigQuery, Flask, FastAPI.
 
----
-
-¡Hola! Soy **Matias Kostiak**, Ingeniero de Datos de **Paraguay**.  
-Me gradué en **Platzi**, con múltiples certificaciones en Ingeniería de Datos.  
-Diseño **pipelines de datos escalables, ETL automatizado, dashboards y reportes analíticos** para proyectos freelance y clientes ($50–$500+).  
-
-**Tecnologías / Technologies:**  
-Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Jupyter, Spark, AWS, GCP, Docker, Airflow, PostgreSQL, MySQL, APIs, Cloud Storage, Git/GitHub, Tableau, Power BI, BigQuery, Docker, Flask, FastAPI.
+📱 **Contact / Contacto:** WhatsApp +595 994 293 223  
 
 ---
 
@@ -59,8 +56,14 @@ Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Jupyter, Spark, AWS, GCP, Docke
 ![Global Sales Top Categories](global_sales_project/visuals/top_categories.gif)
 *Top selling categories and total revenue / Categorías más vendidas e ingresos totales*
 
-
 ---
+
+## 🛠️ How to Use / Cómo usar
+
+1. Clone the repository / Clonar el repositorio  
+```bash
+git clone https://github.com/Matias-Kostiak-Data/data-projects.git
+
 
 ## 🛠️ How to Use / Cómo usar
 
