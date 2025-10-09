@@ -34,3 +34,20 @@ Thumbs.db
 # Streamlit
 .streamlit/
 
+# Ignorar todos los CSV grandes
+*.csv
+
+# Mantener solo archivos clean
+!movielens_project/data/*.csv
+!global_sales_project/data/processed/*.csv
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Ignorar carpetas de IDEs
+.vscode/
+.idea/
+# --------------------------
+
+
