@@ -1,0 +1,6 @@
+# requirements.txt
+# Python dependencies for the SQL Performance Optimization Pipeline
+
+psycopg2-binary  # For connecting and executing commands against PostgreSQL
+pandas           # Useful for data handling and structured output
+matplotlib       # Library for creating the performance comparison graph
