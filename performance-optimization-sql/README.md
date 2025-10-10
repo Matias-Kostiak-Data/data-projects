@@ -38,24 +38,23 @@ This project showcases a Senior Data Engineer’s expertise in **critical Postgr
 
 El proyecto está organizado profesionalmente siguiendo el flujo ELT/ETL.
 
-Performance-optimization-sql/
+performance-optimization-sql/
 ├── .gitignore
-├── README.md               <-- Este archivo.
-├── requirements.txt        <-- Dependencias de Python.
+├── README.md               <-- Este archivo. / This file.
+├── requirements.txt        <-- Dependencias de Python. / Python dependencies.
 |
 ├── sql/                    <-- Scripts SQL (La lógica de BD)
-|   ├── setup_tablas.sql    <-- ELT Load: Crea 500k filas y tablas.
-|   ├── consulta_lenta.sql  <-- ELT Transform (Before): Contiene el EXPLAIN ANALYZE lento.
-|   └── consulta_optimizada.sql <-- ELT Transform (After): Contiene CREATE INDEX y el EXPLAIN ANALYZE rápido.
+|   ├── setup_tablas.sql    <-- ELT Load: Crea 500k filas y tablas. / Creates 500k rows and tables.
+|   ├── consulta_lenta.sql  <-- ELT Transform (Before): EXPLAIN ANALYZE lento. / Slow EXPLAIN ANALYZE.
+|   └── consulta_optimizada.sql <-- ELT Transform (After): CREATE INDEX y EXPLAIN ANALYZE rápido. / CREATE INDEX and fast EXPLAIN ANALYZE.
 |
 ├── python/                 <-- Script de Orquestación (El Pipeline)
-|   └── main_pipeline.py    <-- Ejecuta los scripts SQL, mide y calcula la mejora real (70%).
+|   └── main_pipeline.py    <-- Ejecuta scripts, mide el rendimiento y genera el gráfico final. / Executes scripts, measures performance, and generates the final graph.
 |
 └── assets/                 <-- Evidencia de la Optimización (Capturas/Gráficos)
-├── explain_analyze_antes.png    <-- Captura del plan de ejecución lento (~759ms).
-├── explain_analyze_despues.png  <-- Captura del plan de ejecución optimizado (~230ms).
-└── performance_graph.png        <-- Gráfico de barras que demuestra la mejora del 70%.
-
+├── explain_analyze_antes.png    <-- Captura del plan de ejecución lento. / Slow execution plan capture.
+├── explain_analyze_despues.png  <-- Captura del plan de ejecución optimizado. / Optimized execution plan capture.
+└── performance_graph.png        <-- Gráfico de barras que demuestra la mejora del ~70%. / Bar chart demonstrating ~70% improvement.
 ---
 
 ## Flujo de Trabajo (Para Pruebas)
