@@ -58,12 +58,6 @@ Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Jupyter, Spark, AWS, GCP, Docke
 
 ---
 
-## 🛠️ How to Use / Cómo usar
-
-1. Clone the repository / Clonar el repositorio  
-```bash
-git clone https://github.com/Matias-Kostiak-Data/data-projects.git
-
 
 ## 🛠️ How to Use / Cómo usar
 
