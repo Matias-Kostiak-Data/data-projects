@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBzvH6sDLHbOZYU/giphy.gif" alt="Data Engineering GIF" width="600"/>
-</p>
-
 # 📊 Data Projects Portfolio - Matias Kostiak
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/Matias-Kostiak-Data/data-projects?style=flat-square)](https://github.com/Matias-Kostiak-Data/data-projects)
