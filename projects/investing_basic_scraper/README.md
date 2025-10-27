@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBzvH6sDLHbOZYU/giphy.gif" alt="Data Engineering GIF" width="600"/>
-</p>
 
 # 📊 Investing.com Stock Data Scraper
 
