@@ -33,9 +33,9 @@ Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Jupyter, Spark, AWS, GCP, Docke
 
 | Project | Description | Clean Size | Raw Data | Technologies | Visuals | README |
 |--------|-------------|-----------|----------|-------------|--------|--------|
-| MovieLens Project | Movie ratings analysis: data cleaning, exploration, feature engineering, visualizations | ~10MB | [Drive/Kaggle](movielens_project/README.md) | Python, Pandas, Matplotlib, Seaborn, Jupyter, SQL | ![ratings](movielens_project/visuals/ratings_heatmap.gif) | [README](movielens_project/README.md) |
-| Titanic Project | Survival prediction with feature engineering and machine learning | ~5MB | Included | Python, Pandas, Scikit-learn, Matplotlib, Jupyter | ![titanic](titanic_project/visuals/survival_distribution.gif) | [README](titanic_project/README.md) |
-| Global Sales Project | Sales analytics, aggregation, dashboards from Superstore dataset | ~8MB | [Drive](global_sales_project/README.md) | Python, Pandas, Matplotlib, SQL, Jupyter | ![sales](global_sales_project/visuals/top_categories.gif) | [README](global_sales_project/README.md) |
+| MovieLens Project | Movie ratings analysis: data cleaning, exploration, feature engineering, visualizations | ~10MB | [Drive/Kaggle](projects/movielens_project/README.md) | Python, Pandas, Matplotlib, Seaborn, Jupyter, SQL | ![ratings](projects/movielens_project/visuals/ratings_heatmap.gif) | [README](projects/movielens_project/README.md) |
+| Titanic Project | Survival prediction with feature engineering and machine learning | ~5MB | Included | Python, Pandas, Scikit-learn, Matplotlib, Jupyter | ![titanic](projects/titanic_project/visuals/survival_distribution.gif) | [README](projects/titanic_project/README.md) |
+| Global Sales Project | Sales analytics, aggregation, dashboards from Superstore dataset | ~8MB | [Drive](projects/global_sales_project/README.md) | Python, Pandas, Matplotlib, SQL, Jupyter | ![sales](projects/global_sales_project/visuals/top_categories.gif) | [README](projects/global_sales_project/README.md) |
 
 > ⚠️ Large raw datasets (>100MB) are stored externally (Kaggle/Drive). Links provided in each project README.  
 > ⚠️ All projects are **ready for freelance or client work**.
@@ -45,15 +45,15 @@ Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Jupyter, Spark, AWS, GCP, Docke
 ## 📈 Example Visualizations / Ejemplos de Visualizaciones
 
 ### MovieLens
-![MovieLens Ratings Heatmap](movielens_project/visuals/ratings_heatmap.gif)
+![MovieLens Ratings Heatmap](projects/movielens_project/visuals/ratings_heatmap.gif)
 *Heatmap of movie ratings distribution / Mapa de calor de calificaciones de películas*
 
 ### Titanic
-![Titanic Survival Distribution](titanic_project/visuals/survival_distribution.gif)
+![Titanic Survival Distribution](projects/titanic_project/visuals/survival_distribution.gif)
 *Survival distribution by age and class / Distribución de supervivencia por edad y clase*
 
 ### Global Sales
-![Global Sales Top Categories](global_sales_project/visuals/top_categories.gif)
+![Global Sales Top Categories](projects/global_sales_project/visuals/top_categories.gif)
 *Top selling categories and total revenue / Categorías más vendidas e ingresos totales*
 
 ---
