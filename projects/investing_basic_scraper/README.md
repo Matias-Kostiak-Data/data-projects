@@ -1,127 +1,118 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBzvH6sDLHbOZYU/giphy.gif" alt="Data Engineering GIF" width="600"/>
+</p>
+
 # 📊 Investing.com Stock Data Scraper
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Selenium](https://img.shields.io/badge/Selenium-Automation-informational)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Frames-yellowgreen)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-ff69b4)
-![Author](https://img.shields.io/badge/Author-Matías%20Kostiak-black)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Selenium](https://img.shields.io/badge/Selenium-Automation-informational)](https://www.selenium.dev/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Frames-yellowgreen)](https://pandas.pydata.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Made by](https://img.shields.io/badge/Made%20by-Mat%C3%ADas%20Kostiak-black)](#-author)
 
-A **clean, professional, and fully automated** Python scraper for [Investing.com](https://www.investing.com), built to extract real-time stock data with reliability and precision.  
-It leverages **Selenium** for dynamic JavaScript handling, **WebDriver Manager** for seamless driver setup, and **Pandas** for exporting clean CSV output.
+A clean and professional Python scraper that extracts **current price, daily change, volume, and day range** from any stock page on **Investing.com**.  
+It uses **Selenium (headless)** and **WebDriver Manager** to handle JavaScript-rendered content and saves everything in a **structured CSV file**.
 
 ---
 
 ## ✨ Features
 
-- 🧠 **Dynamic Content Handling:** Extracts data from JavaScript-rendered pages using Selenium + WebDriverWait.  
-- 🕶️ **Headless Operation:** Runs quietly in the background without opening a browser window.  
-- ⚙️ **Automatic Driver Management:** Installs and manages ChromeDriver automatically.  
-- 🛡️ **Robust Error Handling:** Gracefully manages missing or delayed elements.  
-- 📁 **Clean CSV Output:** Saves extracted data in a structured and ready-to-analyze format.
+- **Dynamic rendering support:** waits for JavaScript content with `WebDriverWait`.  
+- **Headless operation:** runs without opening a visible browser window.  
+- **Auto driver management:** `webdriver-manager` installs the right ChromeDriver automatically.  
+- **Robust error handling:** safely skips missing or slow elements.  
+- **Clean output:** exports a single-row CSV ready for data analysis.
 
 ---
 
-## 📈 Data Extracted
-
-This scraper is pre-configured to capture the following **key financial metrics**:
-
-| Metric | Description |
-| ------- | ------------ |
-| 💰 **Current Price** | Latest stock price in real time |
-| 📉 **Daily Change (%)** | Percentage variation in the current session |
-| 🔁 **Volume** | Total traded volume for the day |
-| 📊 **Day's Range** | Minimum and maximum prices reached during the day |
-
----
-
-## 🧰 Tech Stack
-
-| Tool | Purpose |
-| ---- | -------- |
-| 🐍 **Python 3** | Main programming language |
-| 🌐 **Selenium** | Web automation and dynamic scraping |
-| 📦 **Pandas** | Data manipulation and CSV export |
-| 🧩 **Webdriver-Manager** | ChromeDriver installation and management |
-
----
-
-## 🚀 Setup & Installation
-
-### 1️⃣ Prerequisites
-
-Make sure you have the following installed:
+## 🧰 Technology Stack
 
 - **Python 3.8+**
+- **Selenium**
+- **Pandas**
+- **Webdriver-Manager**
 - **Google Chrome**
 
 ---
 
-### 2️⃣ Clone or Download the Project
+## 🚀 Installation
 
-Clone this repository (or download the files directly):
 
-git clone [YOUR_REPOSITORY_URL_HERE]
-cd [YOUR_PROJECT_DIRECTORY_NAME]
-# 3️⃣ Create a Virtual Environment (Recommended)
+# 1. Create and activate a virtual environment
 python -m venv venv
-
-# Activate it
-# On Windows:
+# Windows
 .\venv\Scripts\activate
-# On macOS/Linux:
-source venv/bin/activate
+# macOS/Linux
+# source venv/bin/activate
 
-# 4️⃣ Install Dependencies
+# 2. Install dependencies
 pip install -r requirements.txt
 
-# ⚙️ Usage
+
+⚙️ Usage
+bash
+Copiar código
 python scraper.py
 
-# The script will:
-# 1. Configure and launch a headless Chrome browser.
-# 2. Navigate to the defined TARGET_URL.
-# 3. Wait dynamically for elements to load.
-# 4. Extract 4 key stock metrics.
-# 5. Save the output to investing_data_output.csv.
-# 6. Close the browser automatically.
+The script will:
 
-# 🧩 Configuration
-# To scrape another stock page, edit the configuration section at the top of scraper.py:
+Configure and launch a headless Chrome browser.
+
+Navigate to the defined TARGET_URL.
+
+Wait dynamically for page elements to load.
+
+Extract 4 key stock metrics.
+
+Save the data to investing_data_output.csv.
+
+Close the browser automatically.
+
+🧩 Configuration
+Edit the configuration section at the top of scraper.py to scrape another stock:
 
 # --- 1. CONFIGURATION ---
 TARGET_URL = "https://es.investing.com/equities/YOUR-NEW-STOCK-URL-HERE"
 OUTPUT_FILE = "investing_data_output.csv"
 WAIT_TIMEOUT = 10
 
-# 📤 Output Example
-# When executed, the script generates a CSV file with this structure:
-# Current_Price    Daily_Change_Percent    Volume    Day_Range
-# 213,07           +0,17%                  27,94M    264,65 - 267,76
+📤 Output Example
+Current_Price	Daily_Change_Percent	Volume	Day_Range
+213.07	+0.17%	27.94M	264.65 - 267.76
 
-# 📝 Example data only. Values depend on the page’s locale and real-time market status.
+Example data only. Actual values depend on the stock locale and real-time market conditions.
 
-# 🧠 Best Practices
-# - Use a VPN or stable connection to avoid IP blocks.
-# - If the site structure changes, update CSS/XPath selectors in the code.
-# - For multiple pages or tickers, wrap the extraction in a loop and append to the same CSV.
+🧠 Best Practices
+Use a VPN or stable network to avoid temporary IP blocks.
 
----
+If the page structure changes, update CSS or XPath selectors.
 
-## 👤 Author
+For multiple tickers, loop over URLs and append results to the same CSV.
 
-**Matías Kostiak**  
-💼 *Data Engineer | Python Automation & Web Scraping Specialist*  
-📧 [matiaskostiak25@gmail.com](mailto:matiaskostiak25@gmail.com)  
-🌎 Paraguay  
-🔗 LinkedIn | Upwork | Fiverr
+🧪 Key Selectors (reference)
 
----
+price        = '[data-test="instrument-price-last"]'
+change_pct   = '[data-test="instrument-price-change-percent"]'
+volume_xpath = "//dt[text()='Volumen']/following-sibling::dd[1]"
+range_xpath  = "//dt[text()='Rango día']/following-sibling::dd[1]"
 
-## 🏷️ License
+🧱 Folder Structure
 
-This project is released under the **MIT License** — feel free to use and adapt it for your own portfolio or client projects.
+projects/investing_basic_scraper/
+├── scraper.py
+├── requirements.txt
+└── README.md
 
----
+⚠️Disclaimer
+This project is for educational purposes only.
+Always review and comply with Investing.com’s Terms of Use before using scraped data for production or commercial purposes.
 
-⭐ **If you find this useful, give it a star on GitHub — it helps me grow my portfolio and reach more collaborators!**
+👤 Author
+Matías Kostiak
+💼 Data Engineer | Python Automation & Web Scraping Specialist
+📧 matiaskostiak25@gmail.com
+🌎 Paraguay
+🔗 GitHub | LinkedIn | Upwork
+
+
+
