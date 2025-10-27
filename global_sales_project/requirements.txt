@@ -1,6 +1,0 @@
-⚡ Requirements / Requerimientos
-
-pandas        # Data manipulation / Manipulación de datos
-sqlalchemy    # Database connection / Conexión a base de datos
-psycopg2-binary # PostgreSQL driver / Driver de PostgreSQL
-streamlit     # Dashboard framework / Framework para dashboard
